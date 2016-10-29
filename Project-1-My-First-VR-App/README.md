@@ -23,5 +23,5 @@ Move the "MyFirstVRApp.apk" file to your favorite Android device and enjoy the e
 ## Screenshot
 
 <p align="center">
-<img src="010 - screenshot/screenshot1.png" width="200">
+<img src="010 - screenshot/screenshot1.png" width="400">
 </p>
