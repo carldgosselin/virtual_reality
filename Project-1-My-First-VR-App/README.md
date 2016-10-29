@@ -19,3 +19,7 @@ The final VR file is located in the "build" folder and has an extension of "apk"
 ## Install
 
 Move the "MyFirstVRApp.apk" file to your favorite Android device and enjoy the experience.
+
+<p align="center">
+<img src="010 - screenshot/screenshot.jpeg">
+</p>
