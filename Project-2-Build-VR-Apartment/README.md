@@ -1,7 +1,7 @@
 # UDACITY - Virtual Reality Nanodegree
 ## Carl Gosselin
 ### Duration of project:  1 day
-### Biggest Challenge:  Animating the globe, creating the event trigger, and rotating the globe tilted at 25 degrees.
+## Biggest Challenge:  Creating the event trigger to spin and stop the globe.  Took me a few tries to get it right.
 
 # VR Apartment
 
@@ -20,7 +20,7 @@ The final VR file is located in the "build" folder and has an extension of "apk"
 
 ## Install
 
-Move the "MyApartment2.apk" file to your favorite Android device and enjoy the experience.
+Move the "MyApartment2.apk" file to your favorite Android device and just chill for a bit.
 
 ## Screenshot
 
