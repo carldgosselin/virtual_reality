@@ -25,7 +25,7 @@ Move the "MyApartment2.apk" file to your favorite Android device and enjoy the e
 ## Screenshot
 
 <p align="center">
-<img src="screenshots/screenshot2-vr-apartment.png" width="600">
+<img src="screenshots/screenshot2-vr-apartment.png" width="1000">
 </p>
 
 
