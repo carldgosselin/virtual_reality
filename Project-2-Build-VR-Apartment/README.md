@@ -1,7 +1,7 @@
 # UDACITY - Virtual Reality Nanodegree
 ## Carl Gosselin
 ### Duration of project:  1 day
-## Biggest Challenge:  Creating the event trigger to spin and stop the globe.  Took me a few tries to get it right.
+Biggest Challenge:  Creating the event trigger to spin and stop the globe.  Took me a few tries to get it right.
 
 # VR Apartment
 
