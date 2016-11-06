@@ -22,4 +22,10 @@ The final VR file is located in the "build" folder and has an extension of "apk"
 
 Move the "MyApartment2.apk" file to your favorite Android device and enjoy the experience.
 
+## Screenshot
+
+<p align="center">
+<img src="010 - screenshot/screenshot2-vr-apartment.png" width="400">
+</p>
+
 
