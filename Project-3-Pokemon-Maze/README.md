@@ -42,5 +42,7 @@ Move the "PokemonMaze.apk" file to your favorite Android device and catch those 
 <img src="Screenshots/Maze.png" width="1000">
 </p>
 
+I'd like to thank my kids, Sacha (6) and Isabelle (8), for their invaluable input in the design of the game.  They were also my toughest critics! - "Daddy, make this game harder!"
+
 
 
