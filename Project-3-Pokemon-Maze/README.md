@@ -39,7 +39,7 @@ Move the "PokemonMaze.apk" file to your favorite Android device and enjoy the ex
 ## Screenshot
 
 <p align="center">
-<img src="screenshots/screenshot-maze.png" width="1000">
+<img src="Screenshots/screenshot-maze.png" width="1000">
 </p>
 
 
