@@ -36,4 +36,10 @@ The final VR file is located in the "build" folder and has an extension of "apk"
 
 Move the "PokemonMaze.apk" file to your favorite Android device and enjoy the experience.
 
+## Screenshot
+
+<p align="center">
+<img src="screenshots/screenshot-maze.png" width="1000">
+</p>
+
 
