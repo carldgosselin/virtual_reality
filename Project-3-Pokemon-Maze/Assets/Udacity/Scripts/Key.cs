@@ -16,18 +16,13 @@ public class Key : MonoBehaviour
 
 	public void OnKeyClicked()
 	{
-		// First test
-		Debug.Log ("Inside onKeyClicked method");
 
 		// Instatiate the KeyPoof Prefab where this key is located
-		//Object.Instantiate(KeyPoofPrefab, transform.position, Quaternion.Euler(14,3,16));
-		//Object.Instantiate(KeyPoofPrefab, new Vector3 (14, 3, 16), Quaternion.identity);
+		// Make sure the poof animates vertically
 		Instantiate(KeyPoofPrefab, transform.position, Quaternion.Euler(-90, 0, 0));
         
-		// Make sure the poof animates vertically
-
-        // Call the Unlock() method on the Door
-		door.GetComponent<Door>().Unlock();
+        // Call the KeyCollected() method on the Door
+		door.GetComponent<Door>().keyCollected();
 
         // Destroy the key. Check the Unity documentation on how to use Destroy
 		Destroy(gameObject);

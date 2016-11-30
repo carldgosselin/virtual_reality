@@ -9,8 +9,6 @@ public class Coin : MonoBehaviour
 
     public void OnCoinClicked() {
         
-		Debug.Log("Inside onCoinClicked method");
-
 		// Instantiate the CoinPoof Prefab where this coin is located
 		// Make sure the poof animates vertically
 		Instantiate(coinPoofPrefab, transform.position, Quaternion.Euler(-90, 0, 0));
