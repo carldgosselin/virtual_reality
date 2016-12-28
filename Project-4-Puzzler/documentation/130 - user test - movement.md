@@ -18,7 +18,7 @@ I was surprised when I started moving.
 Yes, I felt a little sick.
 
 
-**3. Do you have anything else to add about the movement or anything else?*
+**3. Do you have anything else to add about the movement or anything else?**
 
 Yes, I get stuck outside the building if I click the "restart" button from inside the room.
 
