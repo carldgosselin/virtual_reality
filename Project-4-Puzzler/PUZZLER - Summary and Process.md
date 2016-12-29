@@ -150,10 +150,8 @@ After clicking the start button, the player is transported inside the dungeon to
 
 After winning the game, the player is transported outside and is given the choice to play again...
 <p align="center">
-<img src="documentation/160 - Restart UI screen" width="500">
+<img src="documentation/160 - Restart UI screen.png" width="500">
 </p>
-
-
 
 Thanks for reading!
 
