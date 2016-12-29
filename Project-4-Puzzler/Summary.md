@@ -1,7 +1,8 @@
-# SUMMARY OF WORK
+<p align="right">
 **Carl Gosselin**
+</p>
 
-# Game: PUZZLER
+# PUZZLER - SUMMARY OF WORK
 
 ## Introduction
 [add mono view video of final game]
