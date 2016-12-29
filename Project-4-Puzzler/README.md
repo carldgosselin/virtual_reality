@@ -18,7 +18,7 @@ Move the "Puzzler.apk" file to your favorite Android device and enjoy the experi
 ## Screenshot
 
 <p align="center">
-<img src="Screenshots/screenshot-maze.png" width="1000">
+<img src="Screenshots/070 - Environment snapshot.png" width="1000">
 </p>
 
 
