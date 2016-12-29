@@ -18,6 +18,22 @@ Puzzler is a mobile VR application for new VR users which challenges them to sol
 <img src="documentation/030 - Create personas.png" width="600">
 </p>
 
+## Sketches
+<p align="center">
+<img src="documentation/050 - PUZZLER low-fi sketch.jpg" width="600">
+</p>
+
+## Early design
+<p align="center">
+<img src="documentation/060 - early design.png" width="600">
+</p>
+
+<p align="center">
+<img src="documentation/065 - early design.png" width="600">
+</p>
+
+
+
 
 
 ## Outcomes
