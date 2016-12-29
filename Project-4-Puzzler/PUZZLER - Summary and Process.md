@@ -7,7 +7,7 @@ Carl Gosselin
 ### Introduction
 
 <p align="center">
-<img src="Screenshots/070 - Environment snapshot.png" width="500">
+<img src="documentation/070 - Environment snapshot.png" width="500">
 </p>
 
 This document will explain the process I underwent to complete the virtual video game as shown above.
@@ -145,12 +145,12 @@ The game begins with a UI panel that instructs the player to click the start but
 
 After clicking the start button, the player is transported inside the dungeon to play the Puzzler game...
 <p align="center">
-<img src="Screenshots/070 - Environment snapshot.png" width="500">
+<img src="documentation/070 - Environment snapshot.png" width="500">
 </p>
 
 After winning the game, the player is transported outside and is given the choice to play again...
 <p align="center">
-<img src="Screenshots/070 - Environment snapshot.png" width="500">
+<img src="documentation/070 - Environment snapshot.png" width="500">
 </p>
 
 
