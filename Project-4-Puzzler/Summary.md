@@ -36,7 +36,7 @@ Puzzler is a mobile VR application for new VR users which challenges them to sol
 
 # 1.  User testing - environment
 
-**User 1**
+**User 1**<br>
 **1. Tell me how tall you feel in this game?**
 It feels like I'm looking up at the 5 balls in front of me.  So I feel a little short in this game
 
@@ -47,7 +47,7 @@ This is a really cool virtual space.  I like it.
 I feel like I'm in the mediavel times.  Very eery.
 
 
-**User 2**
+**User 2**<br>
 **1. Tell me how tall you feel in this game?**
 I feel shorter than I usually am.  
 
@@ -60,7 +60,7 @@ Very medieval!
 
 # 2.  User testing - start and restart panels
 
-**User 1**
+**User 1**<br>
 **1. Are you seeing a panel of some sort?**
 yes, I see a big black box
 
