@@ -1,16 +1,11 @@
 # UDACITY - Virtual Reality Nanodegree
 ## Carl Gosselin
-### Duration of project:  1 week
-### Biggest Challenge:  Raising the door.  
-I dragged & dropped the prefab door as opposed to the door in the scene.  
-Someone else has the same issue in the forum and provided the resolution
 
-# Maze
+# Game: PUZZLER
 
 ## Project Overview
 
 Learning the basics of VR design
-
 
 ## The final VR application
 
