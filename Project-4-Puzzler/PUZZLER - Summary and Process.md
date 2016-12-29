@@ -24,28 +24,36 @@ Below are the personas I captured for playing the Puzzler game.
 </p>
 
 ### Sketches
+
+The first sketch displays the entire game on a single sheet of paper...
 <p align="center">
 <img src="documentation/050 - PUZZLER low-fi sketch.jpg" width="600">
 </p>
 
+The second sketch displays a rough outline of the start panel...
 <p align="center">
 <img src="documentation/090 - Start game UI.jpeg" width="600">
 </p>
 
+The third sketch displays a rough outline of the restart panel...
 <p align="center">
 <img src="documentation/100 - Restart game UI.jpeg" width="600">
 </p>
 
 
 ### Early design
+
+Early design of the dungeon...
 <p align="center">
 <img src="documentation/060 - early design.png" width="600">
 </p>
 
+Early design of the dungeon...
 <p align="center">
 <img src="documentation/065 - early design.png" width="600">
 </p>
 
+Early design of the start and restart panels...
 <p align="center">
 <img src="documentation/110 - start and restart UI.png" width="600">
 </p>
@@ -121,8 +129,6 @@ Action:  the "restart" button needs to be inactive until the player is outside t
 **TBD**
 
 
-
-
 ### User testing outcomes and iterations
 
 Testing the application early and frequently resulted in small and incremental adjustments to the application.  
@@ -133,7 +139,7 @@ With early user testing, I was able to adjust the height of the game and the spe
 
 The game begins with a UI panel that instructs the player to click the start button...
 <p align="center">
-<img src="Screenshots/150 - Start UI screen.png" width="1000">
+<img src="documentation/150 - Start UI screen.png" width="1000">
 </p>
 
 After clicking the start button, the player is transported inside the dungeon to play the Puzzler game...
