@@ -132,7 +132,7 @@ Action:  the "restart" button needs to be inactive until the player is outside t
 ### User testing outcomes and iterations
 
 Testing the application early and frequently resulted in small and incremental adjustments to the application.  
-It helped mitigate large mistakes that would have taken a lot of time to resolved if discovered further down the road.
+It helped mitigate large mistakes that would have taken a lot of time to resolve if discovered further down the road.
 With early user testing, I was able to adjust the height of the game and the speed of movement early in the process.
 
 ### Breakdown of the final piece
