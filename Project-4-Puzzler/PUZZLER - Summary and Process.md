@@ -7,7 +7,7 @@ Carl Gosselin
 ### Introduction
 
 <p align="center">
-[add mono view video of final game]
+<img src="Screenshots/070 - Environment snapshot.png" width="500">
 </p>
 
 This document will explain the process I underwent to complete the virtual video game as shown above.
