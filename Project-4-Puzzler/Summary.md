@@ -102,20 +102,31 @@ Action:  the "restart" button needs to be inactive until the player is outside t
 
 
 
-## Outcomes
-
-## Story of the process
-
 ## User testing outcomes and iterations
+
+Testing the application early and frequently resulted in small and incremental adjustments to the application.  
+It helped mitigate large mistakes that would have taken a lot of time to resolved if discovered further down the road.
+With early user testing, I was able to adjust the height of the game and the speed of movement early in the process.
 
 ## Breakdown of the final piece
 
-## Conclusion
-
-
-
+[pic of start panel]
 <p align="center">
 <img src="Screenshots/070 - Environment snapshot.png" width="1000">
 </p>
+
+[pic of inside the dungeon]
+<p align="center">
+<img src="Screenshots/070 - Environment snapshot.png" width="1000">
+</p>
+
+[pic of restart panel]
+<p align="center">
+<img src="Screenshots/070 - Environment snapshot.png" width="1000">
+</p>
+
+
+
+Thanks for reading!
 
 
