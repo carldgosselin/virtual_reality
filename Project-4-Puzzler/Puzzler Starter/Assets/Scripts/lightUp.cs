@@ -33,8 +33,8 @@ public class lightUp : MonoBehaviour {
 
 	}
 	public void playerSelection() {
-		GameLogic.GetComponent<gameLogic>().playerSelection(this.gameObject);
-		this.GetComponent<GvrAudioSource>().Play();
+		//GameLogic.GetComponent<gameLogic>().playerSelection(this.gameObject);
+		//this.GetComponent<GvrAudioSource>().Play();
 	}
 	public void aestheticReset() {
 		this.GetComponent<MeshRenderer>().material = defaultMaterial; //Revert to the default material

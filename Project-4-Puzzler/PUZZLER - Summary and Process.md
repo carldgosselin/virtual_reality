@@ -12,12 +12,13 @@ Carl Gosselin
 
 This document will explain the process I underwent to complete the virtual video game as shown above.
 
-### Process selection
-
 ### Statement of purpose
 Puzzler is a mobile VR application for new VR users which challenges them to solve a familiar type of puzzle in a new way.
 
 ### Personas
+
+Below are the personas I captured for playing the Puzzler game.
+
 <p align="center">
 <img src="documentation/030 - Create personas.png" width="600">
 </p>
@@ -50,6 +51,9 @@ Puzzler is a mobile VR application for new VR users which challenges them to sol
 </p>
 
 ### User testing
+
+I conducted user testing early and frequently to minimize the scale of changes to the application. 
+I made an attempt to "fail fast" so that the required changes stayed small.  I conducted four rounds of user testing for this application.
 
 ### 1.  User testing - environment
 
@@ -127,17 +131,17 @@ With early user testing, I was able to adjust the height of the game and the spe
 
 ### Breakdown of the final piece
 
-[pic of start panel]
+The game begins with a UI panel that instructs the player to click the start button...
+<p align="center">
+<img src="Screenshots/150 - Start UI screen.png" width="1000">
+</p>
+
+After clicking the start button, the player is transported inside the dungeon to play the Puzzler game...
 <p align="center">
 <img src="Screenshots/070 - Environment snapshot.png" width="1000">
 </p>
 
-[pic of inside the dungeon]
-<p align="center">
-<img src="Screenshots/070 - Environment snapshot.png" width="1000">
-</p>
-
-[pic of restart panel]
+After winning the game, the player is transported outside and is given the choice to play again...
 <p align="center">
 <img src="Screenshots/070 - Environment snapshot.png" width="1000">
 </p>
