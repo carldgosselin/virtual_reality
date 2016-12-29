@@ -20,24 +20,24 @@ Puzzler is a mobile VR application for new VR users which challenges them to sol
 Below are the personas I captured for playing the Puzzler game.
 
 <p align="center">
-<img src="documentation/030 - Create personas.png" width="600">
+<img src="documentation/030 - Create personas.png" width="400">
 </p>
 
 ### Sketches
 
 The first sketch displays the entire game on a single sheet of paper...
 <p align="center">
-<img src="documentation/050 - PUZZLER low-fi sketch.jpg" width="600">
+<img src="documentation/050 - PUZZLER low-fi sketch.jpg" width="400">
 </p>
 
 The second sketch displays a rough outline of the start panel...
 <p align="center">
-<img src="documentation/090 - Start game UI.jpeg" width="600">
+<img src="documentation/090 - Start game UI.jpeg" width="400">
 </p>
 
 The third sketch displays a rough outline of the restart panel...
 <p align="center">
-<img src="documentation/100 - Restart game UI.jpeg" width="600">
+<img src="documentation/100 - Restart game UI.jpeg" width="400">
 </p>
 
 
@@ -45,17 +45,17 @@ The third sketch displays a rough outline of the restart panel...
 
 Early design of the dungeon...
 <p align="center">
-<img src="documentation/060 - early design.png" width="600">
+<img src="documentation/060 - early design.png" width="400">
 </p>
 
 Early design of the dungeon...
 <p align="center">
-<img src="documentation/065 - early design.png" width="600">
+<img src="documentation/065 - early design.png" width="400">
 </p>
 
 Early design of the start and restart panels...
 <p align="center">
-<img src="documentation/110 - start and restart UI.png" width="600">
+<img src="documentation/110 - start and restart UI.png" width="400">
 </p>
 
 ### User testing
@@ -142,17 +142,17 @@ With early user testing, I was able to adjust the height of the game and the spe
 
 The game begins with a UI panel that instructs the player to click the start button...
 <p align="center">
-<img src="documentation/150 - Start UI screen.png" width="1000">
+<img src="documentation/150 - Start UI screen.png" width="400">
 </p>
 
 After clicking the start button, the player is transported inside the dungeon to play the Puzzler game...
 <p align="center">
-<img src="Screenshots/070 - Environment snapshot.png" width="1000">
+<img src="Screenshots/070 - Environment snapshot.png" width="400">
 </p>
 
 After winning the game, the player is transported outside and is given the choice to play again...
 <p align="center">
-<img src="Screenshots/070 - Environment snapshot.png" width="1000">
+<img src="Screenshots/070 - Environment snapshot.png" width="400">
 </p>
 
 
