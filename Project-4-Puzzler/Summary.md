@@ -1,5 +1,5 @@
 # SUMMARY OF WORK
-## Carl Gosselin
+**Carl Gosselin**
 
 # Game: PUZZLER
 
@@ -23,6 +23,15 @@ Puzzler is a mobile VR application for new VR users which challenges them to sol
 <img src="documentation/050 - PUZZLER low-fi sketch.jpg" width="600">
 </p>
 
+<p align="center">
+<img src="documentation/090 - Start game UI.jpeg" width="600">
+</p>
+
+<p align="center">
+<img src="documentation/100 - Restart game UI.jpeg" width="600">
+</p>
+
+
 ## Early design
 <p align="center">
 <img src="documentation/060 - early design.png" width="600">
@@ -30,6 +39,10 @@ Puzzler is a mobile VR application for new VR users which challenges them to sol
 
 <p align="center">
 <img src="documentation/065 - early design.png" width="600">
+</p>
+
+<p align="center">
+<img src="documentation/110 - start and restart UI.png" width="600">
 </p>
 
 ## User testing
@@ -58,7 +71,7 @@ This is a very cool room.  Although it feels a bit choppy and may get dizzy if I
 Very medieval!
 
 
-# 2.  User testing - start and restart panels
+## 2.  User testing - start and restart panels
 
 **User 1**<br>
 **1. Are you seeing a panel of some sort?**<br>
@@ -78,7 +91,7 @@ It looks like the second panel is used to restart the game.  At this point, the 
 I informed the user that I was only user testing the panels at this point. 
 
 
-# 3.  User testing - movement<br>
+## 3.  User testing - movement<br>
 **User 1**<br>
 Action:  Please hit the start button.
 
@@ -96,8 +109,8 @@ note:  the above is a bug where the user can click the "restart" button from ins
 Action:  the "restart" button needs to be inactive until the player is outside the building.
 
 
-# 4.  User testing - Final product
-
+## 4.  User testing - Final product
+**TBD**
 
 
 
