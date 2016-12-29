@@ -109,10 +109,6 @@ I informed the user that I was only user testing the panels at this point.
 
 ### 3.  User testing - movement<br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4UHACWHgfoU" frameborder="0" allowfullscreen></iframe>
-
-[![Everything Is AWESOME](http://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
-
 **User 1**<br>
 Action:  Please hit the start button.
 
