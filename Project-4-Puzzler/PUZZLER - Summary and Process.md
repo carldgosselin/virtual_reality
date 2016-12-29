@@ -2,24 +2,27 @@
 Carl Gosselin
 </p>
 
-# PUZZLER - SUMMARY OF WORK
+## PUZZLER - SUMMARY AND PROCESS OF WORK
 
-## Introduction
+### Introduction
+
+<p align="center">
 [add mono view video of final game]
+</p>
 
-This document will explain the process I underwent to complete the virtual video game above.
+This document will explain the process I underwent to complete the virtual video game as shown above.
 
-## Process selection
+### Process selection
 
-## Statement of purpose
+### Statement of purpose
 Puzzler is a mobile VR application for new VR users which challenges them to solve a familiar type of puzzle in a new way.
 
-## Personas
+### Personas
 <p align="center">
 <img src="documentation/030 - Create personas.png" width="600">
 </p>
 
-## Sketches
+### Sketches
 <p align="center">
 <img src="documentation/050 - PUZZLER low-fi sketch.jpg" width="600">
 </p>
@@ -33,7 +36,7 @@ Puzzler is a mobile VR application for new VR users which challenges them to sol
 </p>
 
 
-## Early design
+### Early design
 <p align="center">
 <img src="documentation/060 - early design.png" width="600">
 </p>
@@ -46,9 +49,9 @@ Puzzler is a mobile VR application for new VR users which challenges them to sol
 <img src="documentation/110 - start and restart UI.png" width="600">
 </p>
 
-## User testing
+### User testing
 
-## 1.  User testing - environment
+### 1.  User testing - environment
 
 **User 1**<br>
 **1. Tell me how tall you feel in this game?**<br>
@@ -72,7 +75,7 @@ This is a very cool room.  Although it feels a bit choppy and may get dizzy if I
 Very medieval!
 
 
-## 2.  User testing - start and restart panels
+### 2.  User testing - start and restart panels
 
 **User 1**<br>
 **1. Are you seeing a panel of some sort?**<br>
@@ -92,7 +95,7 @@ It looks like the second panel is used to restart the game.  At this point, the 
 I informed the user that I was only user testing the panels at this point. 
 
 
-## 3.  User testing - movement<br>
+### 3.  User testing - movement<br>
 **User 1**<br>
 Action:  Please hit the start button.
 
@@ -110,19 +113,19 @@ note:  the above is a bug where the user can click the "restart" button from ins
 Action:  the "restart" button needs to be inactive until the player is outside the building.
 
 
-## 4.  User testing - Final product
+### 4.  User testing - Final product
 **TBD**
 
 
 
 
-## User testing outcomes and iterations
+### User testing outcomes and iterations
 
 Testing the application early and frequently resulted in small and incremental adjustments to the application.  
 It helped mitigate large mistakes that would have taken a lot of time to resolved if discovered further down the road.
 With early user testing, I was able to adjust the height of the game and the speed of movement early in the process.
 
-## Breakdown of the final piece
+### Breakdown of the final piece
 
 [pic of start panel]
 <p align="center">
