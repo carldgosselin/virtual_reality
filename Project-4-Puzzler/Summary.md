@@ -1,5 +1,5 @@
 <p align="right">
-**Carl Gosselin**
+Carl Gosselin
 </p>
 
 # PUZZLER - SUMMARY OF WORK

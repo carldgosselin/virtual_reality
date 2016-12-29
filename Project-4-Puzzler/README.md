@@ -1,5 +1,8 @@
+<p align="right">
+Carl Gosselin
+</p>
+
 # UDACITY - Virtual Reality Nanodegree
-## Carl Gosselin
 
 # Game: PUZZLER
 
