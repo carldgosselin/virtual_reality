@@ -3,9 +3,11 @@
 ## Please navigate to the project folders for detailed README's for each project.
 
 ## PUZZLER
+<a href="https://github.com/carldgosselin/virtual_reality/blob/master/Project-4-Puzzler/PUZZLER - Summary and Process.md">
 <p align="center">
 <img src="Project-4-Puzzler/documentation/070 - Environment snapshot.png" width="500">
 </p>
+</a>
 
 ## POKEMON MAZE
 <p align="center">
