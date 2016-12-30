@@ -10,16 +10,22 @@
 </a>
 
 ## POKEMON MAZE
+<a href="https://github.com/carldgosselin/virtual_reality/tree/master/Project-3-Pokemon-Maze">
 <p align="center">
 <img src="Project-3-Pokemon-Maze/Screenshots/screenshot-maze.png" width="500">
 </p>
+</a>
 
 ## VR APARTMENT
+<a href="https://github.com/carldgosselin/virtual_reality/tree/master/Project-2-Build-VR-Apartment">
 <p align="center">
 <img src="Project-2-Build-VR-Apartment/screenshots/screenshot2-vr-apartment.png" width="500">
 </p>
+</a>
 
 ## MY FIRST VR APP
+<a href="https://github.com/carldgosselin/virtual_reality/tree/master/Project-1-My-First-VR-App">
 <p align="center">
 <img src="Project-1-My-First-VR-App/010 - screenshot/screenshot1.png" width="500">
 </p>
+</a>
