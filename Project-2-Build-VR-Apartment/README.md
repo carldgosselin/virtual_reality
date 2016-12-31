@@ -8,7 +8,7 @@ Carl Gosselin
 <a target="_new" href="https://youtu.be/uLwX9iuOObM">
 	<img src="screenshots/screenshot2-vr-apartment.png" width="600">
 </a>
-<br>[click <a target="_new" href="https://youtu.be/uLwX9iuOObM">here</a> to view video of game]
+<br>[click <a target="_new" href="https://youtu.be/uLwX9iuOObM">here</a> to view video of virtual apartment]
 </p>
 
 ### Duration of project:  1 day
