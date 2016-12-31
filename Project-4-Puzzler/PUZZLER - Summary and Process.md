@@ -21,6 +21,7 @@ In other words, the player observes the sequence of flashing dungeon orbs and tr
 <img src="documentation/070 - Environment snapshot.png" width="500">
 <br>[click <a target="_new" href="https://youtu.be/iXAmVSXLY1w">here</a> to view video of game on youtube]
 </p>
+This is [a link](http://example.com){:target="_blank"} that opens in a new window.
 
 In the development of this game, I took special precaution around the movement and speed of the game to minimize any nauseating discomfort.
 A user test was specifically conducted to ensure maximum comfort in navigating through a virtual space.
