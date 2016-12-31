@@ -30,9 +30,9 @@ Puzzler is a mobile VR application for new VR users which challenges them to sol
 
 ## The Process
 
-### Personas
+### Choosing the ideal persona
 
-Below are the personas I captured for playing the Puzzler game.
+For the design of this game, I chose my daughter, Isabelle, as the ideal persona.
 
 <p align="center">
 <img src="documentation/030 - Create personas.png" width="600">
