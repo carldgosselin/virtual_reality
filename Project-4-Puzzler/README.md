@@ -21,7 +21,7 @@ Move the "Puzzler.apk" file to your favorite Android device and enjoy the experi
 ## Screenshot
 
 <p align="center">
-<img src="documentation/070 - Environment snapshot.png" width="1000">
+<img src="documentation/070 - Environment snapshot.png" width="500">
+<br>[click <a target="_new" href="https://youtu.be/iXAmVSXLY1w">here</a> to view video of game on youtube]
 </p>
-
 
