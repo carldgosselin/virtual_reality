@@ -20,7 +20,7 @@ In other words, the player observes the sequence of flashing dungeon orbs and tr
 <p align="center">
 <img src="documentation/070 - Environment snapshot.png" width="500">
 <br>[click <a target="_new" href="https://youtu.be/hhSTB7rkNBk">here</a> to view video of game on youtube]
-<br> note: the recording is not picking up the eerie background music (sound works fine when not being recorded)
+<br> <i>note: the recording is not picking up the eerie background music (sound works fine when not being recorded)</i>
 </p>
 
 In the development of this game, I took special precaution around the movement and speed of the game to minimize any nauseating discomfort.
