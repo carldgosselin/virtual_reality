@@ -2,9 +2,9 @@
 Carl Gosselin
 </p>
 
-## PUZZLER - SUMMARY AND PROCESS OF WORK
+# PUZZLER - SUMMARY AND PROCESS OF WORK
 
-### Introduction
+## Introduction
 
 I built a game called PUZZLER as part of Udacity's Virtual Reality Development Nanodegree.  The game took me about 1 week to complete (design, test, build and repeat).
 I took a considerable amount of time designing and testing the application early in the process so that I could "fail fast" and make incremental changes throughout the process.
@@ -15,7 +15,7 @@ In other words, the player observes the sequence of flashing dungeon orbs and tr
 Caution: Failing to replicate the sequence of flashing dungeon orbs may cause frustration and embarrassment to you and your immediate family.  Play at your own risk.  
 
 
-### PUZZLER
+## PUZZLER
 
 <p align="center">
 <img src="documentation/070 - Environment snapshot.png" width="500">
@@ -25,8 +25,10 @@ Caution: Failing to replicate the sequence of flashing dungeon orbs may cause fr
 In the development of this game, I took special precaution around the movement and speed of the game to minimize any nauseating discomfort.
 A user test was specifically conducted to ensure maximum comfort in navigating through a virtual space.
 
-### Statement of purpose
+## Statement of purpose
 Puzzler is a mobile VR application for new VR users which challenges them to solve a familiar type of puzzle in a new way.
+
+## The Process
 
 ### Personas
 
