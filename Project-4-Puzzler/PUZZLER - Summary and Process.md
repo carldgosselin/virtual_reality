@@ -21,7 +21,7 @@ In other words, the player observes the sequence of flashing dungeon orbs and tr
 <a target="_new" href="https://youtu.be/hhSTB7rkNBk">
 	<img src="documentation/070 - Environment snapshot.png" width="500">
 </a>
-<br>[click <a target="_new" href="https://youtu.be/hhSTB7rkNBk">here</a> to view video of game on youtube]
+<br>[click <a target="_new" href="https://youtu.be/hhSTB7rkNBk">here</a> to view video of game]
 </p>
 
 In the development of this game, I took special precaution around the movement and speed of the game to minimize any nauseating discomfort.

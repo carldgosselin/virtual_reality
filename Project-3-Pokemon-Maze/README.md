@@ -9,7 +9,7 @@ Carl Gosselin
 <a target="_new" href="https://youtu.be/iQ629q8PzuQ">
 	<img src="Screenshots/screenshot-maze.png" width="600">
 </a>
-<br>[click <a target="_new" href="https://youtu.be/iQ629q8PzuQ">here</a> to view video of game on youtube]
+<br>[click <a target="_new" href="https://youtu.be/iQ629q8PzuQ">here</a> to view video of game]
 </p>
 
 ### Duration of project:  1 week
