@@ -5,7 +5,12 @@
 I dragged & dropped the prefab door as opposed to the door in the scene.  
 Someone else has the same issue in the forum and provided the resolution
 
-# Maze
+# Pokemon Maze
+
+<p align="center">
+<img src="Screenshots/screenshot-maze.png" width="600">
+<br>[click <a target="_new" href="https://youtu.be/iQ629q8PzuQ">here</a> to view video of game on youtube]
+</p>
 
 ## Project Overview
 
@@ -35,11 +40,5 @@ The final VR file is located in the "build" folder and has an extension of "apk"
 ## Install
 
 Move the "PokemonMaze.apk" file to your favorite Android device and enjoy the experience.
-
-## Screenshot
-
-<p align="center">
-<img src="Screenshots/screenshot-maze.png" width="1000">
-</p>
 
 
