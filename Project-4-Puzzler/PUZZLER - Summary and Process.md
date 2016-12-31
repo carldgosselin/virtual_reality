@@ -106,7 +106,7 @@ I made an attempt to "fail fast" so that the required changes stayed small.  I c
 **Outcome:** I moved the camera back a few meters to reduce the size of the panel.<br>
 
 **Question: What do you think the panel is for?**<br>
-**Response:** It looks like the panels is used to start a game.<br>
+**Response:** It looks like the panel is used to start a game.<br>
 **Outcome:** None required.<br>
 
 **Question: What do you think happens when you click on the button?**<br>
@@ -130,11 +130,11 @@ Action:  Please hit the start button.
 **Outcome:** I slowed down the speed of movement between each of the three positions of the game.<br>
 
 **Question: Did you feel a little sick as you were moving?**<br>
-**Response:** Yes, I felt a little sick.
+**Response:** Yes, I felt a little sick.<br>
 **Outcome:** I slowed down the speed of movement between each of the three positions of the game.<br>
 
 **Question: Do you have anything else to add about the movement or anything else?**<br>
-**Response:** Yes, I get stuck outside the building if I click the "restart" button from inside the room.
+**Response:** Yes, I get stuck outside the building if I click the "restart" button from inside the room.<br>
 **Outcome:** this is a bug where the user can click the "restart" button from inside the game room. <br>
 This was resolved by making the restart panel appear only after the game is won.
 
@@ -167,6 +167,11 @@ After winning the game, the player is transported outside and is given the choic
 </p>
 
 ## Conclusion
+
+This assignment made me realize the importance of establishing a repeatable process for creating a virtual game.
+It made evident the importance of user testing components of the game early to "fail fast".  
+Getting the scale of the game right is important in the early stages of development as re-scaling at the end of the development process can take a lot more time and resources to fix.
+In virtual reality, the scale and speed of movement are core attributes to a good experience.
 
 
 
