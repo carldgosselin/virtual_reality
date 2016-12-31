@@ -8,7 +8,7 @@ Carl Gosselin
 
 <p align="center">
 <img src="documentation/070 - Environment snapshot.png" width="500">
-<br>[click <a href="https://youtu.be/iXAmVSXLY1w">here</a> to view video on youtube]
+<br>[click <a target=_blank href="https://youtu.be/iXAmVSXLY1w">here</a> to view video of game on youtube]
 </p>
 
 I built this game as part of Udacity's Virtual Reality Development Nanodegree.  The game took me about 1 week to complete (design, test, build and repeat).
