@@ -1,9 +1,18 @@
+<p align="right">
+Carl Gosselin
+</p>
 # UDACITY - Virtual Reality Nanodegree
-## Carl Gosselin
-### Duration of project:  1 day
-Biggest Challenge:  Creating the event trigger to spin and stop the globe.  Took me a few tries to get it right.
 
 # VR Apartment
+<p align="center">
+<a target="_new" href="https://youtu.be/uLwX9iuOObM">
+	<img src="Screenshots/screenshot-maze.png" width="600">
+</a>
+<br>[click <a target="_new" href="https://youtu.be/uLwX9iuOObM">here</a> to view video of game]
+</p>
+
+### Duration of project:  1 day
+Biggest Challenge:  Creating the event trigger to spin and stop the globe.  Took me a few tries to get it right.
 
 ## Project Overview
  
@@ -21,11 +30,4 @@ The final VR file is located in the "build" folder and has an extension of "apk"
 ## Install
 
 Move the "MyApartment2.apk" file to your favorite Android device and just chill for a bit.
-
-## Screenshot
-
-<p align="center">
-<img src="screenshots/screenshot2-vr-apartment.png" width="1000">
-</p>
-
 
