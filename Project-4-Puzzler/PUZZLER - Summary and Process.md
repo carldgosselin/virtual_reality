@@ -115,6 +115,7 @@ I informed the user that I was only user testing the panels at this point.
 
 
 ### 3.  User testing - movement<br>
+[click <a target="_new" href="https://youtu.be/4UHACWHgfoU">here</a> to view the "movement" video used for user testing on youtube]
 
 **User 1**<br>
 Action:  Please hit the start button.
