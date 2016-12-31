@@ -168,10 +168,8 @@ After winning the game, the player is transported outside and is given the choic
 
 ## Conclusion
 
-This assignment made me realize the importance of establishing a repeatable process for creating a virtual game.
-It made evident the importance of user testing components of the game early to "fail fast".  
-Getting the scale of the game right is important in the early stages of development as re-scaling at the end of the development process can take a lot more time and resources to fix.
-In virtual reality, the scale and speed of movement are core attributes to a good experience.
+This assignment made me realize the importance of establishing a repeatable process for creating a virtual game.  It made evident the importance of user testing components of the game early to "fail fast".  
+Getting the scale of the game right is important in the early stages of development as re-scaling at the end of the development process can take a lot more time and resources to fix.  In virtual reality, the scale and speed of movement are core attributes to a good experience.
 
 
 
