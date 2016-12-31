@@ -140,7 +140,30 @@ This was resolved by making the restart panel appear only after the game is won.
 
 
 ### 4.  User testing - Final product
-**TBD**
+
+**Question: What do you think is the first step in this game?**<br>
+**Response:**  Looks like I have to click on the Start button.  I like that you pushed back the panel.  It's not too big anymore. <br>
+**Outcome:** None required.<br>
+
+Action:  Please go ahead and click on the Start button.
+
+**Question: How did you feel about the speed of movement into the dungeon room?**<br>
+**Response:** The speed is nice and slow.  I didn't feel any discomfort at all.  This is much better than last time.<br>
+**Outcome:** None required.<br>
+
+Action:  Please play the game.
+
+**Question: How did you feel about the game itself?**<br>
+**Response:** The game was good.  I like how the orbs lit up and sparkled.  It made it easy to remember the sequence.<br>
+**Outcome:** None required.<br>
+
+**Question: How did you feel about the speed of movement outside the room?**<br>
+**Response:** It felt good.  Same as entering the room.<br>
+**Outcome:** None required.<br>
+
+**Question: Are you seeing anything outside?**<br>
+**Response:** Yes, I'm seeing a restart panel.  It's a good distance and easy to read.<br>
+**Outcome:** None required.<br>
 
 
 ### User testing outcomes and iterations
