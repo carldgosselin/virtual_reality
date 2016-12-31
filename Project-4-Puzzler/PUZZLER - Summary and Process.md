@@ -12,7 +12,7 @@ I took the time to conduct 4 rounds of user testing to get early feedback on the
 The 4 rounds of user testing helped in keeping the bugs and scale of changes to a minimum.  The final product is a virtualized version of the "simon says" game.  
 In other words, the player observes the sequence of flashing dungeon orbs and tries to replicate the sequence.  
 
-Caution: Failing to replicate the sequence of flashing dungeon orbs may cause frustration and embarrassment to you and your immediate family.  Play at your own risk.  
+**Caution**: Failing to replicate the sequence of flashing dungeon orbs may cause frustration and embarrassment to you and your immediate family.  Play at your own risk.  
 
 
 ## PUZZLER
