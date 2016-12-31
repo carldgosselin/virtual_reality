@@ -13,8 +13,8 @@ Carl Gosselin
 
 I built this game as part of Udacity's Virtual Reality Development Nanodegree.  The game took me about 1 week to complete (design, test, build and repeat).
 I took a considerable amount of time designing and testing the application early in the process so that I could "fail fast" and make incremental changes throughout the process.
-I took the time to conduct 5 rounds of user testing for the environment, reviewing the start and restart panels, game movement, and testing the final product.
-The 5 rounds of user testing helped in keeping the scale of changes to a minimum.
+I took the time to conduct 4 rounds of user testing for the environment, reviewing the start and restart panels, game movement, and testing the final product.
+The 4 rounds of user testing helped in keeping the scale of changes to a minimum.
 The final product is a virtualized version of the "simon says" game.  The player observes the flashing orbs and tries to match the sequence. 
 
 The rest of the document will explain the process I underwent to complete the virtual video game as shown above.
