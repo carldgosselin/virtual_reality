@@ -73,7 +73,7 @@ Early design of the start and restart panels...
 <img src="documentation/110 - start and restart UI.png" width="500">
 </p>
 
-### User testing
+## User testing
 
 I conducted user testing early and frequently to minimize the scale of changes to the application. 
 I made an attempt to "fail fast" so that the required changes stayed small.  I conducted four rounds of user testing for this application.
@@ -81,45 +81,42 @@ I made an attempt to "fail fast" so that the required changes stayed small.  I c
 ### 1.  User testing - environment
 
 **User 1**<br>
-**1. Tell me how tall you feel in this game?**<br>
-It feels like I'm looking up at the 5 balls in front of me.  So I feel a little short in this game
+**Question: Tell me how tall you feel in this game?**<br>
+**Response:** It feels like I'm looking up at the 5 balls in front of me.  So I feel a little short in this game<br>
+**Outcome:**  I lowered the 5 dungeon orbs to place the objects at eyesight level (as oppose to looking up).<br>
 
-**2. Tell me about your experience inside this application?**<br>
-This is a really cool virtual space.  I like it.
+**Question: Tell me about your experience inside this application?**<br>
+**Response:** This is a really cool virtual space.  I like it.<br>
+**Outcome:** None required.<br>
 
-**3. Can you describe the mood of the environment?**<br>
-I feel like I'm in the mediavel times.  Very eery.
-
-
-**User 2**<br>
-**1. Tell me how tall you feel in this game?**<br>
-I feel shorter than I usually am.  
-
-**2. Tell me about your experience inside this application?**<br>
-This is a very cool room.  Although it feels a bit choppy and may get dizzy if I keep playing for a few more minutes.
-
-**3.  Can you describe the mood of the environment?**<br>
-Very medieval!
+**Question: Can you describe the mood of the environment?**<br>
+**Response:** I feel like I'm in the mediavel times.  Very eery.<br>
+**Outcome:** None required.<br>
 
 
 ### 2.  User testing - start and restart panels
 
 **User 1**<br>
-**1. Are you seeing a panel of some sort?**<br>
-yes, I see a big black box
+**Question: Are you seeing a panel of some sort?**<br>
+**Response:** yes, I see a big black box<br>
+**Outcome:** None required.<br>
 
-**2. How big does the panel feel to you?**<br>
-It feels very big.
+**Question: How big does the panel feel to you?**<br>
+**Response:** It feels very big.<br>
+**Outcome:** I moved the camera back a few meters to reduce the size of the panel.<br>
 
-**3. What do you think the panel is for?**<br>
-It looks like the panels is used to start a game.
+**Question: What do you think the panel is for?**<br>
+**Response:** It looks like the panels is used to start a game.<br>
+**Outcome:** None required.<br>
 
-**4. What do you think happens when you click on the button?**<br>
-I think the panel goes away and some sort of game starts.
+**Question: What do you think happens when you click on the button?**<br>
+**Response:** I think the panel goes away and some sort of game starts.<br>
+**Outcome:** None required.<br>
 
-**5. Go ahead and click the button.  Can you describe the second panel?**<br>
-It looks like the second panel is used to restart the game.  At this point, the user was confused as there was no game played.
-I informed the user that I was only user testing the panels at this point. 
+**Question: Go ahead and click the button.  Can you describe the second panel?**<br>
+**Response:** It looks like the second panel is used to restart the game.  
+**Outcome:** None required.  However, the user was confused as there was no game played.<br>
+I informed the user that I was only user testing the panels at this point. <br>
 
 
 ### 3.  User testing - movement
@@ -128,18 +125,18 @@ I informed the user that I was only user testing the panels at this point.
 **User 1**<br>
 Action:  Please hit the start button.
 
-**1. How did you feel about the speed of movement into the room?**<br>
-It felt a little too fast.  It was a bit disorienting.  I would like it to be a little slower.
-I was surprised when I started moving.
+**Question: How did you feel about the speed of movement into the room?**<br>
+**Response:** It felt a little too fast.  It was a bit disorienting.  I would like it to be a little slower. I was surprised when I started moving.<br>
+**Outcome:** I slowed down the speed of movement between each of the three positions of the game.<br>
 
-**2. Did you feel a little sick as you were moving?**<br>
-Yes, I felt a little sick.
+**Question: Did you feel a little sick as you were moving?**<br>
+**Response:** Yes, I felt a little sick.
+**Outcome:** I slowed down the speed of movement between each of the three positions of the game.<br>
 
-**3. Do you have anything else to add about the movement or anything else?**<br>
-Yes, I get stuck outside the building if I click the "restart" button from inside the room.
-
-note:  the above is a bug where the user can click the "restart" button from inside the game room. <br>
-Action:  the "restart" button needs to be inactive until the player is outside the building.
+**Question: Do you have anything else to add about the movement or anything else?**<br>
+**Response:** Yes, I get stuck outside the building if I click the "restart" button from inside the room.
+**Outcome:** this is a bug where the user can click the "restart" button from inside the game room. <br>
+This was resolved by making the restart panel appear only after the game is won.
 
 
 ### 4.  User testing - Final product
@@ -148,11 +145,11 @@ Action:  the "restart" button needs to be inactive until the player is outside t
 
 ### User testing outcomes and iterations
 
-Testing the application early and frequently resulted in small and incremental adjustments to the application.  
+Testing the application early and frequently kept the bugs and changes small and incremental.  
 It helped mitigate large mistakes that would have taken a lot of time to resolve if discovered further down the road.
 With early user testing, I was able to adjust the height of the game and the speed of movement early in the process.
 
-### Breakdown of the final piece
+## Breakdown of the final piece
 
 The game begins with a UI panel that instructs the player to click the start button...
 <p align="center">
@@ -168,6 +165,9 @@ After winning the game, the player is transported outside and is given the choic
 <p align="center">
 <img src="documentation/160 - Restart UI screen.png" width="500">
 </p>
+
+## Conclusion
+
 
 
 
