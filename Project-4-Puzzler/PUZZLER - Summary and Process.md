@@ -114,7 +114,7 @@ It looks like the second panel is used to restart the game.  At this point, the 
 I informed the user that I was only user testing the panels at this point. 
 
 
-### 3.  User testing - movement<br>
+### 3.  User testing - movement
 [click <a target="_new" href="https://youtu.be/4UHACWHgfoU">here</a> to view the "movement" video used for user testing on youtube]
 
 **User 1**<br>
