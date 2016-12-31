@@ -8,10 +8,11 @@ Carl Gosselin
 
 I built a game called PUZZLER as part of Udacity's Virtual Reality Development Nanodegree.  The game took me about 1 week to complete (design, test, build and repeat).
 I took a considerable amount of time designing and testing the application early in the process so that I could "fail fast" and make incremental changes throughout the process.
-I took the time to conduct 4 rounds of user testing for the environment, reviewing the start and restart panels, game movement, and testing the final product.
-The 4 rounds of user testing helped in keeping the scale of changes to a minimum.
-The final product is a virtualized version of the "simon says" game.  In other words, the player observes the sequence of flashing dungeon orbs and tries to replicate the sequence.  
-Failing to replicate the sequence of flashing dungeon orbs will may cause frustration and embarrassment to you and your immediate family.  Play at your own risk.  
+I took the time to conduct 4 rounds of user testing to get early feedback on the dungeon environment, the start and restart panels, game movement, and testing the final product.
+The 4 rounds of user testing helped in keeping the bugs and scale of changes to a minimum.  The final product is a virtualized version of the "simon says" game.  
+In other words, the player observes the sequence of flashing dungeon orbs and tries to replicate the sequence.  
+
+Caution: Failing to replicate the sequence of flashing dungeon orbs may cause frustration and embarrassment to you and your immediate family.  Play at your own risk.  
 
 
 ### PUZZLER
