@@ -1,6 +1,15 @@
+<p align="right">
+Carl Gosselin
+</p>
 # UDACITY - Virtual Reality Nanodegree
 
 # My First VR App
+<p align="center">
+<a target="_new" href="https://youtu.be/OcRyGXIPvRg">
+	<img src="010 - screenshot/screenshot1.png" width="400">
+</a>
+<br>[click <a target="_new" href="https://youtu.be/OcRyGXIPvRg">here</a> to view video of my first VR app]
+</p>
 
 ## Project Overview
 
@@ -19,9 +28,3 @@ The final VR file is located in the "build" folder and has an extension of "apk"
 ## Install
 
 Move the "MyFirstVRApp.apk" file to your favorite Android device and enjoy the experience.
-
-## Screenshot
-
-<p align="center">
-<img src="010 - screenshot/screenshot1.png" width="400">
-</p>
