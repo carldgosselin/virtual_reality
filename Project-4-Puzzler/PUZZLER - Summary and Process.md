@@ -197,6 +197,10 @@ It made evident the importance of user testing components of the game early to "
 Getting the scale of the game right is important in the early stages of development as re-scaling at the end of the development process can take a lot more time and resources to fix.  
 In virtual reality, the scale and speed of movement are core attributes to a good experience.
 
+## How to install
+
+Click <a href="https://github.com/carldgosselin/virtual_reality/blob/master/Project-4-Puzzler/build">here</a> and move the Puzzler apk file onto your favorite Android device and enjoy the experience.
+
 
 
 
