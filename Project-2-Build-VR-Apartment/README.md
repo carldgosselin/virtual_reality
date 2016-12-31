@@ -6,7 +6,7 @@ Carl Gosselin
 # VR Apartment
 <p align="center">
 <a target="_new" href="https://youtu.be/uLwX9iuOObM">
-	<img src="Screenshots/screenshot-maze.png" width="600">
+	<img src="screenshots/screenshot2-vr-apartment.png" width="600">
 </a>
 <br>[click <a target="_new" href="https://youtu.be/uLwX9iuOObM">here</a> to view video of game]
 </p>
