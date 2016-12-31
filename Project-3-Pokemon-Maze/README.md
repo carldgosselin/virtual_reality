@@ -1,16 +1,21 @@
+<p align="right">
+Carl Gosselin
+</p>
 # UDACITY - Virtual Reality Nanodegree
-## Carl Gosselin
-### Duration of project:  1 week
-### Biggest Challenge:  Raising the door.  
-I dragged & dropped the prefab door as opposed to the door in the scene.  
-Someone else has the same issue in the forum and provided the resolution
 
 # Pokemon Maze
 
 <p align="center">
-<img src="Screenshots/screenshot-maze.png" width="600">
+<a target="_new" href="https://youtu.be/iQ629q8PzuQ">
+	<img src="Screenshots/screenshot-maze.png" width="600">
+</a>
 <br>[click <a target="_new" href="https://youtu.be/iQ629q8PzuQ">here</a> to view video of game on youtube]
 </p>
+
+### Duration of project:  1 week
+### Biggest Challenge:  Raising the door.  
+I dragged & dropped the prefab door as opposed to the door in the scene.  
+Someone else has the same issue in the forum and provided the resolution
 
 ## Project Overview
 
