@@ -15,7 +15,7 @@ Carl Gosselin
 ### Duration of project:  1 week
 ### Biggest Challenge:  Raising the door.  
 I dragged & dropped the prefab door as opposed to the door in the scene.  
-Someone else had the same issue in the forum and provided the resolution
+Someone else had the same issue in the forum and provided the resolution.
 
 ## Project Overview
 
