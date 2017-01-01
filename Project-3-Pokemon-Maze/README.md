@@ -21,21 +21,21 @@ Someone else had the same issue in the forum and provided the resolution
 
 This project is focused on learning to code the scripts that bring everything to life. Skills include:
 
-Creating new C# scripts in Unity
-If then, loops, arrays, and other programming constructs
-Attaching scripts to objects
-Using the built-in Monobehaviour methods
-Triggers and Gaze Based Interaction
-Creating, moving and animating objects procedurally
-Familiarization with the Unity documentation
-Scripting Dynamic UI Objects
-Debugging
-The Unity Event System.
-Managing and Reloading scenes.
-Controlling particle systems.
-Create an Audio Clip and playing sounds.
-Waypoint Navigation System.
-Profiling scenes for performance.
+Creating new C# scripts in Unity<br>
+If then, loops, arrays, and other programming constructs<br>
+Attaching scripts to objects<br>
+Using the built-in Monobehaviour methods<br>
+Triggers and Gaze Based Interaction<br>
+Creating, moving and animating objects procedurally<br>
+Familiarization with the Unity documentation<br>
+Scripting Dynamic UI Objects<br>
+Debugging<br>
+The Unity Event System.<br>
+Managing and Reloading scenes.<br>
+Controlling particle systems.<br>
+Create an Audio Clip and playing sounds.<br>
+Waypoint Navigation System.<br>
+Profiling scenes for performance.<br>
 
 
 ## The final VR application
