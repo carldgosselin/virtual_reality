@@ -75,6 +75,23 @@ Early design of the start and restart panels...
 <img src="documentation/110 - start and restart UI.png" width="500">
 </p>
 
+### Breakdown of the final piece (or SOP)
+
+The game begins with a UI panel that instructs the player to click the start button...
+<p align="center">
+<img src="documentation/150 - Start UI screen.png" width="500">
+</p>
+
+After clicking the start button, the player is transported inside the dungeon to play the Puzzler game...
+<p align="center">
+<img src="documentation/070 - Environment snapshot.png" width="500">
+</p>
+
+After winning the game, the player is transported outside and is given the choice to play again...
+<p align="center">
+<img src="documentation/160 - Restart UI screen.png" width="500">
+</p>
+
 ## User testing
 
 I conducted user testing early and frequently to minimize the scale of changes to the application. 
@@ -174,22 +191,6 @@ Testing the application early and frequently kept the bugs and changes small and
 It helped mitigate large mistakes that would have taken a lot of time to resolve if discovered further down the road.
 With early user testing, I was able to adjust the height of the game and the speed of movement early in the process.
 
-## Breakdown of the final piece
-
-The game begins with a UI panel that instructs the player to click the start button...
-<p align="center">
-<img src="documentation/150 - Start UI screen.png" width="500">
-</p>
-
-After clicking the start button, the player is transported inside the dungeon to play the Puzzler game...
-<p align="center">
-<img src="documentation/070 - Environment snapshot.png" width="500">
-</p>
-
-After winning the game, the player is transported outside and is given the choice to play again...
-<p align="center">
-<img src="documentation/160 - Restart UI screen.png" width="500">
-</p>
 
 ## Conclusion
 
