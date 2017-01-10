@@ -38,7 +38,7 @@ The final VR file is located in the "build" folder and has an extension of "apk"
 
 ## Install
 
-Move the "VRMuseum.apk" file to your favorite Android device and enjoy the experience.
+Move the "VRGallery.apk" file to your favorite Android device and enjoy the experience.
 
 ## Screenshot
 
