@@ -47,7 +47,3 @@ Move the "VRMuseum.apk" file to your favorite Android device and enjoy the exper
 <img src="screenshots/screenshot1.png" width="500">
 </p>
 </a>
-<p align="center">
-[click <a href="https://github.com/carldgosselin/virtual_reality/blob/master/Project-4-Puzzler/PUZZLER - Summary and Process.md">here</a> to view summary and process of work]
-</p>
-
