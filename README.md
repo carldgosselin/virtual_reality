@@ -42,3 +42,6 @@ Carl Gosselin
 <img src="Project-1-My-First-VR-App/010 - screenshot/screenshot1.png" width="500">
 </p>
 </a>
+<p align="center">
+[click <a target="_new" href="https://youtu.be/OcRyGXIPvRg">here</a> to view video of my first VR app]
+</p>
