@@ -4,7 +4,7 @@ Carl Gosselin
 
 # UDACITY - Virtual Reality Nanodegree
 
-# VR Museum
+# VR Gallery
 
 ## Project Overview
 
