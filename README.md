@@ -32,6 +32,9 @@ Carl Gosselin
 <img src="Project-2-Build-VR-Apartment/screenshots/screenshot2-vr-apartment.png" width="500">
 </p>
 </a>
+<p align="center">
+<br>[click <a target="_new" href="https://youtu.be/uLwX9iuOObM">here</a> to view video of virtual apartment]
+</p>
 
 ## MY FIRST VR APP
 <a href="https://github.com/carldgosselin/virtual_reality/tree/master/Project-1-My-First-VR-App">
