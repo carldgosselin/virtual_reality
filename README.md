@@ -13,7 +13,7 @@ Carl Gosselin
 </p>
 </a>
 <p align="center">
-<br>[click <a target="_new" href="https://youtu.be/hhSTB7rkNBk">here</a> to view video of game]
+[click <a target="_new" href="https://youtu.be/hhSTB7rkNBk">here</a> to view video of game]
 </p>
 
 ## POKEMON MAZE
