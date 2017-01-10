@@ -21,7 +21,11 @@ Look around and research topic for the project. This can be: <br>
 - An industry that has the potential to be impacted by VR
 
 ### Create a scene to showcase the findings from your research
-### Create a VR scene with navigation and instructions, which showcases the findings from your research. This could take the form of a gallery, a museum, or a more creative showcasing of the topics at hand. This scene should include at least 5 'display points' which educate viewers on the topic at hand. These display points can use VR objects, text, images, or video to convey the information at hand and must also emit relevant audio (either educational or complementary to the theme). Users should be able to freely navigate around the space to learn about the topic you have researched.
+### Create a VR scene with navigation and instructions, which showcases the findings from your research. 
+This could take the form of a gallery, a museum, or a more creative showcasing of the topics at hand. 
+This scene should include at least 5 'display points' which educate viewers on the topic at hand. 
+These display points can use VR objects, text, images, or video to convey the information at hand and must also emit relevant audio (either educational or complementary to the theme). 
+Users should be able to freely navigate around the space to learn about the topic you have researched.
 
 - Deploy, Test and Optimize
 - Be sure that the scene runs on your device and meets the project requirements.
