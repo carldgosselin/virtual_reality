@@ -12,13 +12,10 @@ I took the time to conduct 4 rounds of user testing to get early feedback on the
 The 4 rounds of user testing helped in keeping the bugs and scale of changes to a minimum.  The final product is a virtual gallery with five booths showcasing the state of the VR industry in year 2016 and 2017.  
 
 
-## VR Gallery
+## VR Gallery - WORK IN PROGRESS
 
 <p align="center">
-<a target="_new" href="https://youtu.be/hhSTB7rkNBk">
-	<img src="documentation/070 - Environment snapshot.png" width="500">
-</a>
-<br>[click <a target="_new" href="https://youtu.be/hhSTB7rkNBk">here</a> to view video of game]
+<img src="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/documentation/000 - WIP%20- dancingbear.gif">
 </p>
 
 In the development of this game, I took special precaution around the movement and speed of the game to minimize any nauseating discomfort.
