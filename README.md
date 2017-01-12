@@ -6,6 +6,13 @@ Carl Gosselin
 
 ## Please navigate to the project folders for detailed README's for each project.
 
+## VR GALLERY - WORK IN PROGRESS...
+
+<p align="center">
+<img src="documentation/000 - WIP - dancingbear">
+</p>
+
+
 ## PUZZLER
 <a href="https://github.com/carldgosselin/virtual_reality/blob/master/Project-4-Puzzler/PUZZLER - Summary and Process.md">
 <p align="center">
