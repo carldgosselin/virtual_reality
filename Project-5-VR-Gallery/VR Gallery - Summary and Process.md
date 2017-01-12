@@ -36,54 +36,54 @@ For the design of this game, I chose my wife, Andrea, as the ideal persona.
 
 ### Sketches
 
-The first sketch displays the entire game on a single sheet of paper...
+The first sketch displays the main hall where all booths can be seen in a single view...
 <p align="center">
-<img src="documentation/050 - PUZZLER low-fi sketch.jpg" width="500">
+<img src="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/documentation/040%20-%20Main%20Hall%20sketch%20-%20lowfi.jpg" width="500">
 </p>
 
-The second sketch displays a rough outline of the start panel...
+The second sketch displays the general layout of the booths...
 <p align="center">
-<img src="documentation/090 - Start game UI.jpeg" width="500">
+<img src="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/documentation/050%20-%20Booth%20sketch%20-%20lowfi.jpg" width="500">
 </p>
 
 The third sketch displays a rough outline of the restart panel...
 <p align="center">
-<img src="documentation/100 - Restart game UI.jpeg" width="500">
+<img src="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/documentation/000 - WIP%20- dancingbear.gif">
 </p>
 
 
 ### Early design
 
-Early design of the dungeon...
+Early design of the main hall...
 <p align="center">
-<img src="documentation/060 - early design.png" width="500">
+<img src="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/documentation/000 - WIP%20- dancingbear.gif">
 </p>
 
-Early design of the dungeon...
+Early design of the booths...
 <p align="center">
-<img src="documentation/065 - early design.png" width="500">
+<img src="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/documentation/000 - WIP%20- dancingbear.gif">
 </p>
 
 Early design of the start and restart panels...
 <p align="center">
-<img src="documentation/110 - start and restart UI.png" width="500">
+<img src="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/documentation/000 - WIP%20- dancingbear.gif">
 </p>
 
 ### Breakdown of the final piece (or SOP)
 
-The game begins with a UI panel that instructs the player to click the start button...
+The experience begins with...
 <p align="center">
-<img src="documentation/150 - Start UI screen.png" width="500">
+<img src="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/documentation/000 - WIP%20- dancingbear.gif">
 </p>
 
-After clicking the start button, the player is transported inside the dungeon to play the Puzzler game...
+After...
 <p align="center">
-<img src="documentation/070 - Environment snapshot.png" width="500">
+<img src="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/documentation/000 - WIP%20- dancingbear.gif">
 </p>
 
-After winning the game, the player is transported outside and is given the choice to play again...
+After...
 <p align="center">
-<img src="documentation/160 - Restart UI screen.png" width="500">
+<img src="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/documentation/000 - WIP%20- dancingbear.gif">
 </p>
 
 ## User testing
