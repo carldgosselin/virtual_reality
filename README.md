@@ -9,7 +9,7 @@ Carl Gosselin
 ## VR GALLERY - WORK IN PROGRESS...
 
 <p align="center">
-<img src="documentation/000 - WIP - dancingbear">
+<img src="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/documentation/000 - WIP%20- dancingbear.gif">
 </p>
 
 
