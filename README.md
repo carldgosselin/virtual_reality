@@ -6,6 +6,8 @@ Carl Gosselin
 
 ## Please navigate to the project folders for detailed README's for each project.
 
+<br>
+
 ## VR GALLERY - WORK IN PROGRESS...
 
 <p align="center">
