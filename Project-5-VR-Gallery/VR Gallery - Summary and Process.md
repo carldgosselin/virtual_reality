@@ -50,12 +50,6 @@ The second sketch displays the general layout of the booths...
 <img src="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/documentation/050%20-%20Booth%20sketch%20-%20lowfi.jpg" width="500">
 </p>
 
-The third sketch displays a rough outline of the restart panel...
-<p align="center">
-<img src="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/documentation/000 - WIP%20- dancingbear.gif">
-</p>
-
-
 ### Early design
 
 Early design of the main hall...
