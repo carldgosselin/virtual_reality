@@ -62,11 +62,6 @@ Early design of the booths...
 <img src="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/documentation/000 - WIP%20- dancingbear.gif">
 </p>
 
-Early design of the start and restart panels...
-<p align="center">
-<img src="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/documentation/000 - WIP%20- dancingbear.gif">
-</p>
-
 ### Breakdown of the final piece (or SOP)
 
 The experience begins with...
