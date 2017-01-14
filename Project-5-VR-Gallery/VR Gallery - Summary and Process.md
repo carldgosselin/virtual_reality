@@ -31,7 +31,7 @@ This application is a mobile VR application for new VR users and educates them a
 For the design of this game, I chose my wife, Andrea, as the ideal persona.
 
 <p align="center">
-<img src="documentation/010 - Identify Ideal Persona" width="600">
+<img src="documentation/010 - Identify Ideal Persona.png" width="600">
 </p>
 
 ### Sketches
