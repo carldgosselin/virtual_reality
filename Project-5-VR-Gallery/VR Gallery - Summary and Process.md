@@ -39,6 +39,10 @@ For the design of this game, I chose my wife, Andrea, as the ideal persona.
 The first sketch displays the main hall where all booths can be seen in a single view...
 <p align="center">
 <img src="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/documentation/040%20-%20Main%20Hall%20sketch%20-%20lowfi.jpg" width="500">
+<br>
+Main panel:  "Welcome. Click on a booth to visit" <br>
+Left side panel:  Udacity logo <br>
+Right side panel: Unity logo <br>
 </p>
 
 The second sketch displays the general layout of the booths...
