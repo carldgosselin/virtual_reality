@@ -18,7 +18,7 @@ The 4 rounds of user testing helped in keeping the bugs and scale of changes to 
 <img src="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/documentation/000 - WIP%20- dancingbear.gif">
 </p>
 
-In the development of this application, I took special precaution around the movement and speed of the game to minimize any nauseating discomfort.
+In the development of this application, I took special precaution around the speed of movement to minimize any nauseating discomfort.
 A user test was specifically conducted to ensure maximum comfort in navigating through a virtual space.
 
 ## Statement of purpose
