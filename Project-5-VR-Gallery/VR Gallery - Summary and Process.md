@@ -57,10 +57,38 @@ Early design of the main hall...
 <img src="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/documentation/060 - Early Design - Main Hall.png" width="600">
 </p>
 
+### User testing - Environment - Main Hall
+
+**User 1**<br>
+**Question: Tell me how tall you feel when looking down at the booths in the Main Hall?**<br>
+**Response:** TBD...<br>
+**Outcome:**  TBD...<br>
+
+**Question: Tell me about your experience inside this application?**<br>
+**Response:** TBD...<br>
+**Outcome:** TBD...<br>
+
+**Question: Can you describe the mood of the environment?**<br>
+**Response:** TBD...<br>
+**Outcome:** TBD...<br>
+
 Early design of the booths...
 <p align="center">
 <img src="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/documentation/070 - Early Design - Booths.png" width="600">
 </p>
+
+**User 1**<br>
+**Question: Tell me how tall you feel at the booth level?**<br>
+**Response:** TBD...<br>
+**Outcome:**  TBD...<br>
+
+**Question: Tell me about your experience at booth level?**<br>
+**Response:** TBD...<br>
+**Outcome:** TBD...<br>
+
+**Question: Can you describe the mood at the booth level?**<br>
+**Response:** TBD...<br>
+**Outcome:** TBD...<br>
 
 ### Breakdown of the final piece (or SOP)
 
