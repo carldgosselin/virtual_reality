@@ -59,7 +59,7 @@ Early design of the main hall...
 
 Early design of the booths...
 <p align="center">
-<img src="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/documentation/000 - WIP%20- dancingbear.gif">
+<img src="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/documentation/070 - Early Design - Booths.png">
 </p>
 
 ### Breakdown of the final piece (or SOP)
