@@ -64,13 +64,18 @@ Early design of the main hall...
 ### User testing - Environment - Main Hall
 
 **User 1**<br>
-**Question: Tell me how tall you feel when looking down at the booths in the Main Hall?**<br>
+
+**Question: Please describe what you see**<br>
 **Response:** TBD...<br>
 **Outcome:**  TBD...<br>
 
-**Question: Tell me about your experience inside this application?**<br>
+**Question: What do you think is the intent of this scene?**<br>
 **Response:** TBD...<br>
-**Outcome:** TBD...<br>
+**Outcome:**  TBD...<br>
+
+**Question: How tall you feel when looking down at the scene?**<br>
+**Response:** TBD...<br>
+**Outcome:**  TBD...<br>
 
 **Question: Can you describe the mood of the environment?**<br>
 **Response:** TBD...<br>
