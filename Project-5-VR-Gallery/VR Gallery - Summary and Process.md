@@ -58,7 +58,7 @@ Early design of the main hall...
 </p>
 
 <p align="center">
-<img src="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/documentation/061 - Early Design - Main Hall" width="600">
+<img src="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/documentation/061 - Early Design - Main Hall.png" width="600">
 </p>
 
 ### User testing - Environment - Main Hall
