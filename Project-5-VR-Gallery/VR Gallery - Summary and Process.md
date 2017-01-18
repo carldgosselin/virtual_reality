@@ -66,19 +66,20 @@ Early design of the main hall...
 **User 1**<br>
 
 **Question: Please describe what you see**<br>
-**Response:** TBD...<br>
+**Response:** It's pretty fuzzy.  looks like I'm standing on a dock looking down at some sort of room.<br>  
 **Outcome:**  TBD...<br>
 
 **Question: What do you think is the intent of this scene?**<br>
-**Response:** TBD...<br>
+**Response:** Looks like I'm looking at a few booths but they are empty.  The body language of the people seem hostile.  They don't look relaxed.  <br>
+What is DOF 3?  I can barely read the signs.<br>
 **Outcome:**  TBD...<br>
 
 **Question: How tall you feel when looking down at the scene?**<br>
-**Response:** TBD...<br>
+**Response:** I feel bigger than everyone else.<br>
 **Outcome:**  TBD...<br>
 
 **Question: Can you describe the mood of the environment?**<br>
-**Response:** TBD...<br>
+**Response:** I don't know.  Again, the people I see appear to be impatient (body language)<br>
 **Outcome:** TBD...<br>
 
 Early design of the booths...
