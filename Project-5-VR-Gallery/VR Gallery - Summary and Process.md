@@ -66,21 +66,30 @@ Early design of the main hall...
 **User 1**<br>
 
 **Question: Please describe what you see**<br>
-**Response:** It's pretty fuzzy.  looks like I'm standing on a dock looking down at some sort of room.<br>  
-**Outcome:**  TBD...<br>
+**Response:**
+1. It's pretty fuzzy. <br>
+2. Looks like I'm standing on a dock looking down at some sort of room.<br>  
+**Outcome:**  
+1. Updated text with sans-serif font style.  Created text via the Canvas as opposed to the Text feature <br>
+2. No changes required for the elevated feeling.  It is intended for the viewer to feel elevated for the "overview" experience.<br>
 
 **Question: What do you think is the intent of this scene?**<br>
-**Response:** Looks like I'm looking at a few booths but they are empty.  The body language of the people seem hostile.  They don't look relaxed.  <br>
-What is DOF 3?  I can barely read the signs.<br>
-**Outcome:**  TBD...<br>
+**Response:** 
+3. Looks like I'm looking at a few booths but they are empty. <br>
+4. The body language of the people seem hostile.  They don't look relaxed.  <br>
+5. What is DOF 3?  I can barely read the signs.<br>
+**Outcome:**  
+3. No changes.  The booths will remain empty for this project.  The booths will soon be filled with videos and posters <br>
+4. "Idle" animation activated to make the crowd seem less hostile. <br>
+5. As previously discussed, updated the crispness of the text with a sans-serif font (arial)
 
 **Question: How tall you feel when looking down at the scene?**<br>
 **Response:** I feel bigger than everyone else.<br>
-**Outcome:**  TBD...<br>
+**Outcome:**  No changes required.<br>
 
 **Question: Can you describe the mood of the environment?**<br>
 **Response:** I don't know.  Again, the people I see appear to be impatient (body language)<br>
-**Outcome:** TBD...<br>
+**Outcome:** Added "Idle" animation to the audience to make them appear less hostile.  Also, added instructional panels for clarity of purpose and navigation. <br>
 
 Early design of the booths...
 <p align="center">
