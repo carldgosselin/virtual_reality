@@ -66,7 +66,7 @@ Early design of the main hall...
 **User 1**<br>
 
 **Question: Please describe what you see**<br>
-**Response:**
+**Response:** <br>
 1. It's pretty fuzzy. <br>
 2. Looks like I'm standing on a dock looking down at some sort of room.<br>  
 **Outcome:**  
@@ -74,7 +74,7 @@ Early design of the main hall...
 2. No changes required for the elevated feeling.  It is intended for the viewer to feel elevated for the "overview" experience.<br>
 
 **Question: What do you think is the intent of this scene?**<br>
-**Response:** 
+**Response:** <br>
 3. Looks like I'm looking at a few booths but they are empty. <br>
 4. The body language of the people seem hostile.  They don't look relaxed.  <br>
 5. What is DOF 3?  I can barely read the signs.<br>
