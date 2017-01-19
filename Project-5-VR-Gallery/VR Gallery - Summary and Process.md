@@ -68,7 +68,7 @@ Early design of the main hall...
 **Question: Please describe what you see**<br>
 **Response:** <br>
 1. It's pretty fuzzy. <br>
-2. Looks like I'm standing on a dock looking down at some sort of room.<br>  
+2. Looks like I'm standing on a dock looking down at some sort of room.<br>
 **Outcome:**  
 1. Updated text with sans-serif font style.  Created text via the Canvas as opposed to the Text feature <br>
 2. No changes required for the elevated feeling.  It is intended for the viewer to feel elevated for the "overview" experience.<br>
