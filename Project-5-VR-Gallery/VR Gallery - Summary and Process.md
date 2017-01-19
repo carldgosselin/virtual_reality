@@ -70,7 +70,7 @@ Early design of the main hall...
 1. It's pretty fuzzy. <br>
 2. Looks like I'm standing on a dock looking down at some sort of room.<br>
 **Outcome:**  
-1. Updated text with sans-serif font style.  Created text via the Canvas as opposed to the Text feature <br>
+1. To decrease "fuzziness": updated text with sans-serif font style.  Created text via the Canvas component as opposed to the "Text Mesh" component. <br>
 2. No changes required for the elevated feeling.  It is intended for the viewer to feel elevated for the "overview" experience.<br>
 
 **Question: What do you think is the intent of this scene?**<br>
