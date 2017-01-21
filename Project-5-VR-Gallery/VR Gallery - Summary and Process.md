@@ -50,6 +50,11 @@ The second sketch displays the general layout of the booths...
 <img src="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/documentation/050%20-%20Booth%20sketch%20-%20lowfi.jpg" width="500">
 </p>
 
+The thirds sketch displays the general layout of the instructional panels...
+<p align="center">
+<img src="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/documentation/055 - Instructional Panel sketch" width="500">
+</p>
+
 ### Early design
 
 Early design of the main hall...
