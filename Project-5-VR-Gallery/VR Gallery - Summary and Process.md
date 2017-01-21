@@ -52,7 +52,7 @@ The second sketch displays the general layout of the booths...
 
 The thirds sketch displays the general layout of the instructional panels...
 <p align="center">
-<img src="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/documentation/055 - Instructional Panel sketch" width="500">
+<img src="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/documentation/055 - Instructional Panel sketch.jpg" width="500">
 </p>
 
 ### Early design
