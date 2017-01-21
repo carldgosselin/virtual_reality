@@ -136,6 +136,28 @@ Early design of the Instructional Panels...
 <img src="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/documentation/080 - Early Design - Instrucational Panels.png" width="600">
 </p>
 
+**User 1**<br>
+
+**Question: Please describe what you see near the roof of the arena?**<br>
+**Response:** TBD...<br>
+**Outcome:**  TBD...<br>
+
+**Question: Do the panels provide sufficient information for you to know what to do?**<br>
+**Response:** TBD...<br>
+**Outcome:**  TBD...<br>
+
+**Question: Are the location of the instructional panels appropriate?**<br>
+**Response:** TBD...<br>
+**Outcome:**  TBD...<br>
+
+**Question: What questions come to mind after reading the instructional panels?**<br>
+**Response:** TBD...<br>
+**Outcome:**  TBD...<br>
+
+**Question: Anything else you would like to share?  Any questions you were expecting that I didn't ask?**<br>
+**Response:** TBD...<br>
+**Outcome:** TBD...<br>
+
 
 
 ### Breakdown of the final piece (or SOP)
