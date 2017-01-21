@@ -96,6 +96,10 @@ Early design of the booths...
 <img src="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/documentation/070 - Early Design - Booths.png" width="600">
 </p>
 
+<p align="center">
+<img src="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/documentation/071 - Early Design - Booths.png" width="600">
+</p>
+
 **User 1**<br>
 **Question: Tell me how tall you feel at the booth level?**<br>
 **Response:** TBD...<br>
