@@ -101,17 +101,32 @@ Early design of the booths...
 </p>
 
 **User 1**<br>
+
+**Question: Please describe what you see?**<br>
+**Response:** TBD...<br>
+**Outcome:**  TBD...<br>
+
+**Question: Please look at the first booth called "My favorite VR experience". Is is easy to view?**<br>
+**Response:** TBD...<br>
+**Outcome:**  TBD...<br>
+
 **Question: Tell me how tall you feel at the booth level?**<br>
 **Response:** TBD...<br>
 **Outcome:**  TBD...<br>
 
-**Question: Tell me about your experience at booth level?**<br>
+**Question: Please tell me what you would expect to learn at this booth?**<br>
 **Response:** TBD...<br>
 **Outcome:** TBD...<br>
 
-**Question: Can you describe the mood at the booth level?**<br>
+**Question: What type of audio and video could accompany this booth?**<br>
 **Response:** TBD...<br>
 **Outcome:** TBD...<br>
+
+**Question: Anything else you would like to share?  Any questions you were expecting that I didn't ask?**<br>
+**Response:** TBD...<br>
+**Outcome:** TBD...<br>
+
+
 
 ### Breakdown of the final piece (or SOP)
 
