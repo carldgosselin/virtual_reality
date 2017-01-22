@@ -150,25 +150,24 @@ Early design of the Instructional Panels...
 **User 1**<br>
 
 **Question: Please describe what you see near the roof of the arena?**<br>
-**Response:** TBD...<br>
-**Outcome:**  TBD...<br>
+**Response:** I see the instructions and the sponsors <br>
+**Outcome:**  No changes required. <br>
 
 **Question: Do the panels provide sufficient information for you to know what to do?**<br>
-**Response:** TBD...<br>
-**Outcome:**  TBD...<br>
+**Response:** Yes. <br>
+**Outcome:**  No changes required. <br>
 
 **Question: Are the location of the instructional panels appropriate?**<br>
-**Response:** TBD...<br>
-**Outcome:**  TBD...<br>
+**Response:** Yes, they seem appropriate. <br>
+**Outcome:**  No changes required. <br>
 
 **Question: What questions come to mind after reading the instructional panels?**<br>
-**Response:** TBD...<br>
-**Outcome:**  TBD...<br>
+**Response:** How come I can't click on the booths yet?<br>
+**Outcome:**  The booths will be clickable in the near future. <br>
 
 **Question: Anything else you would like to share?  Any questions you were expecting that I didn't ask?**<br>
-**Response:** TBD...<br>
-**Outcome:** TBD...<br>
-
+**Response:** I like the Luke Skywalker picture.  You should make the guy in the blue pants and red hair breakdance. <br>
+**Outcome:** No changes required. <br>
 
 
 ### Breakdown of the final piece (or SOP)
