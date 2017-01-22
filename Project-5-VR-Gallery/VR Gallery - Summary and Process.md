@@ -113,21 +113,21 @@ Early design of the booths...
 2. There is nobody working in the booths. <br>
 **Outcome:**  
 1. No changes required. <br>
-2. I may update the booths in some way [TBD]
+2. Removed chair in booth 1 and replaced it with Luke Skywalker.
 
 **Question: Please look at the first booth called "My favorite VR experience". Is it easy to view?**<br>
 **Response:** <br>
-3. It looks a little blurry but ok. <br>
+3. The "lightblade VR" sign looks a little blurry but ok. <br>
 4. Why the yellow background?  Maybe use grey or blue. <br>
 5. The chair seems too orderly.  Should someone be working at the booth? <br>
 **Outcome:** <br>
-3. No changes required.  Perhaps I can update the "lightblade VR" logo for a crisper view. <br>
+3. I changed the image setting from "default" to "sprite" and then dragged the image on scene.  Looks a lot crisper. <br>
 4. Will attempt to change to grey or blue background. <br>
-5. Will attempt to replace chair with something else. <br>
+5. Removed chair in booth 1 and replaced it with Luke Skywalker. <br>
 
 **Question: Tell me how tall you feel at the booth level?**<br>
 **Response:** Compared to the chair, I feel quite tall.  The chair should be scaled down.<br>
-**Outcome:**  Will attempt to make changes to the chair. <br>
+**Outcome:**  Removed chair in booth 1 and replaced it with Luke Skywalker. <br>
 
 **Question: Please tell me what you would expect to learn at this booth?**<br>
 **Response:** I expect to learn something about this "Lightblade VR" game. <br>
@@ -136,7 +136,7 @@ Early design of the booths...
 
 **Question: What type of audio and video could accompany this booth?**<br>
 **Response:** I feel there should be a person at the booth beckoning me.<br>
-**Outcome:** TBD.  Not sure if I have the skills to create a person in 3D yet.<br>
+**Outcome:** Removed chair in booth 1 and replaced it with Luke Skywalker.  He can beckon anyone.<br>
 
 **Question: Anything else you would like to share?  Any questions you were expecting that I didn't ask?**<br>
 **Response:** No. <br>
