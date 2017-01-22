@@ -117,13 +117,13 @@ Early design of the booths...
 
 **Question: Please look at the first booth called "My favorite VR experience". Is it easy to view?**<br>
 **Response:** <br>
-3. It looks a little blurry but ok.
-4. Why the yellow background?  Maybe use grey or blue.
-5. The chair seems too orderly.  Should someone be working at the booth?
+3. It looks a little blurry but ok. <br>
+4. Why the yellow background?  Maybe use grey or blue. <br>
+5. The chair seems too orderly.  Should someone be working at the booth? <br>
 **Outcome:** <br>
-3. No changes required.  Perhaps I can update the "lightblade VR" logo for a crisper view.
-4. Will attempt to change to grey or blue background.
-5. Will attempt to replace chair with something else.
+3. No changes required.  Perhaps I can update the "lightblade VR" logo for a crisper view. <br>
+4. Will attempt to change to grey or blue background. <br>
+5. Will attempt to replace chair with something else. <br>
 
 **Question: Tell me how tall you feel at the booth level?**<br>
 **Response:** Compared to the chair, I feel quite tall.  The chair should be scaled down.<br>
