@@ -84,7 +84,7 @@ Early design of the main hall...
 4. The body language of the people seem hostile.  They don't look relaxed.  <br>
 5. What is DOF 3?  I can barely read the signs.<br>
 **Outcome:**  
-3. No changes.  The booths will remain empty for this project.  The booths will soon be filled with videos and posters <br>
+3. The booths will soon be filled with videos and posters <br>
 4. "Idle" animation activated to make the crowd seem less hostile. <br>
 5. As previously discussed, updated the crispness of the text with a sans-serif font (arial)
 
@@ -108,28 +108,39 @@ Early design of the booths...
 **User 1**<br>
 
 **Question: Please describe what you see?**<br>
-**Response:** TBD...<br>
-**Outcome:**  TBD...<br>
+**Response:** <br>
+1. I see a conference of some sort. <br>
+2. There is nobody working in the booths. <br>
+**Outcome:**  
+1. No changes required. <br>
+2. I may update the booths in some way [TBD]
 
-**Question: Please look at the first booth called "My favorite VR experience". Is is easy to view?**<br>
-**Response:** TBD...<br>
-**Outcome:**  TBD...<br>
+**Question: Please look at the first booth called "My favorite VR experience". Is it easy to view?**<br>
+**Response:** <br>
+3. It looks a little blurry but ok.
+4. Why the yellow background?  Maybe use grey or blue.
+5. The chair seems too orderly.  Should someone be working at the booth?
+**Outcome:** <br>
+3. No changes required.  Perhaps I can update the "lightblade VR" logo for a crisper view.
+4. Will attempt to change to grey or blue background.
+5. Will attempt to replace chair with something else.
 
 **Question: Tell me how tall you feel at the booth level?**<br>
-**Response:** TBD...<br>
-**Outcome:**  TBD...<br>
+**Response:** Compared to the chair, I feel quite tall.  The chair should be scaled down.<br>
+**Outcome:**  Will attempt to make changes to the chair. <br>
 
 **Question: Please tell me what you would expect to learn at this booth?**<br>
-**Response:** TBD...<br>
-**Outcome:** TBD...<br>
+**Response:** I expect to learn something about this "Lightblade VR" game. <br>
+**Outcome:** No changes required.<br>
+
 
 **Question: What type of audio and video could accompany this booth?**<br>
-**Response:** TBD...<br>
-**Outcome:** TBD...<br>
+**Response:** I feel there should be a person at the booth beckoning me.<br>
+**Outcome:** TBD.  Not sure if I have the skills to create a person in 3D yet.<br>
 
 **Question: Anything else you would like to share?  Any questions you were expecting that I didn't ask?**<br>
-**Response:** TBD...<br>
-**Outcome:** TBD...<br>
+**Response:** No. <br>
+**Outcome:** No changes required.<br>
 
 Early design of the Instructional Panels...
 <p align="center">
