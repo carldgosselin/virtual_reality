@@ -192,54 +192,38 @@ After...
 <img src="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/documentation/000 - WIP%20- dancingbear.gif">
 </p>
 
-## User testing
+## Additional User testing
 
 I conducted user testing early and frequently to minimize the scale of changes to the application. 
 I made an attempt to "fail fast" so that the required changes stayed small.  I conducted four rounds of user testing for this application.
 
-### 1.  User testing - environment
+
+### 2.  User testing - Navigation - starting location, booth locations and viewing angles
 
 **User 1**<br>
-**Question: Tell me how tall you feel in this game?**<br>
-**Response:** It feels like I'm looking up at the 5 balls in front of me.  So I feel a little short in this game<br>
-**Outcome:**  I lowered the 5 dungeon orbs to place the objects at eyesight level (as oppose to looking up).<br>
+**Question: How do you feel about the starting location of this app?**<br>
+**Response:** <br>
+**Outcome:** <br>
 
-**Question: Tell me about your experience inside this application?**<br>
-**Response:** This is a really cool virtual space.  I like it.<br>
-**Outcome:** None required.<br>
+**Question: Now try to navigate to the first booth on the left.  How did you do?**<br>
+**Response:** <br>
+**Outcome:** <br>
 
-**Question: Can you describe the mood of the environment?**<br>
-**Response:** I feel like I'm in the mediavel times.  Very eery.<br>
-**Outcome:** None required.<br>
+**Question: Have a look at the first booth.  How is your viewing experience?**<br>
+**Response:** <br>
+**Outcome:** <br>
 
+**Question: Try to navigate away from the first booth.  Can you describe this experience?**<br>
+**Response:** <br>
+**Outcome:** <br>
 
-### 2.  User testing - start and restart panels
-
-**User 1**<br>
-**Question: Are you seeing a panel of some sort?**<br>
-**Response:** yes, I see a big black box<br>
-**Outcome:** None required.<br>
-
-**Question: How big does the panel feel to you?**<br>
-**Response:** It feels very big.<br>
-**Outcome:** I moved the camera back a few meters to reduce the size of the panel.<br>
-
-**Question: What do you think the panel is for?**<br>
-**Response:** It looks like the panel is used to start a game.<br>
-**Outcome:** None required.<br>
-
-**Question: What do you think happens when you click on the button?**<br>
-**Response:** I think the panel goes away and some sort of game starts.<br>
-**Outcome:** None required.<br>
-
-**Question: Go ahead and click the button.  Can you describe the second panel?**<br>
-**Response:** It looks like the second panel is used to restart the game.  
-**Outcome:** None required.  However, the user was confused as there was no game played.<br>
-I informed the user that I was only user testing the panels at this point. <br>
+**Question: Please go ahead and navigate to the others booths.  Please describe your experience in doing so.**<br>
+**Response:** <br>
+**Outcome:** <br>
 
 
 ### 3.  User testing - movement
-[click <a target="_new" href="https://youtu.be/4UHACWHgfoU">here</a> to view the "movement" video used for user testing on youtube]
+[click <a target="_new" href="">here</a> to view the "movement" video used for user testing on youtube]
 
 **User 1**<br>
 Action:  Please hit the start button.
