@@ -169,6 +169,11 @@ Early design of the Instructional Panels...
 **Response:** I like the Luke Skywalker picture.  You should make the guy in the blue pants and red hair breakdance. <br>
 **Outcome:** No changes required. <br>
 
+Design Updates...
+<p align="center">
+<img src="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/documentation/090 - Updated Design - Main Hall.png" width="600">
+</p>
+
 
 ### Breakdown of the final piece (or SOP)
 
