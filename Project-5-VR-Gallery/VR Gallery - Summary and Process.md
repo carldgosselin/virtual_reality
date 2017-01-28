@@ -198,75 +198,58 @@ I conducted user testing early and frequently to minimize the scale of changes t
 I made an attempt to "fail fast" so that the required changes stayed small.  I conducted four rounds of user testing for this application.
 
 
-### 2.  User testing - Navigation - starting location, booth locations and viewing angles
-
-**User 1**<br>
-**Question: How do you feel about the starting location of this app?**<br>
-**Response:** <br>
-**Outcome:** <br>
-
-**Question: Now try to navigate to the first booth on the left.  How did you do?**<br>
-**Response:** <br>
-**Outcome:** <br>
-
-**Question: Have a look at the first booth.  How is your viewing experience?**<br>
-**Response:** <br>
-**Outcome:** <br>
-
-**Question: Try to navigate away from the first booth.  Can you describe this experience?**<br>
-**Response:** <br>
-**Outcome:** <br>
-
-**Question: Please go ahead and navigate to the others booths.  Please describe your experience in doing so.**<br>
-**Response:** <br>
-**Outcome:** <br>
-
-
-### 3.  User testing - movement
+### User testing - Navigation - starting location, booth locations and viewing angles
 [click <a target="_new" href="">here</a> to view the "movement" video used for user testing on youtube]
 
 **User 1**<br>
-Action:  Please hit the start button.
+**Question: How do you feel about the starting location of this app?**<br>
+**Response:** The Starting location if fine.  Feels like I'm floating above the conference.  I still feel like this app is a little to blurry thought.<br>
+**Outcome:** No changes.  I don't think there is much I can do about the "blurry" comment.  This would require a hardware upgrade.<br>
 
-**Question: How did you feel about the speed of movement into the room?**<br>
-**Response:** It felt a little too fast.  It was a bit disorienting.  I would like it to be a little slower. I was surprised when I started moving.<br>
-**Outcome:** I slowed down the speed of movement between each of the three positions of the game.<br>
+**Question: Now try to navigate to the first booth on the left.  How did you do?**<br>
+**Response:** I did it. Seems pretty intuitive.
+**Outcome:** No changes required.<br>
 
-**Question: Did you feel a little sick as you were moving?**<br>
-**Response:** Yes, I felt a little sick.<br>
-**Outcome:** I slowed down the speed of movement between each of the three positions of the game.<br>
+**Question: Have a look at the first booth.  How is your viewing experience?**<br>
+**Response:** It looks good.  I see some sort of movie and sound. <br>
+**Outcome:** No changes required.<br>
 
-**Question: Do you have anything else to add about the movement or anything else?**<br>
-**Response:** Yes, I get stuck outside the building if I click the "restart" button from inside the room.<br>
-**Outcome:** this is a bug where the user can click the "restart" button from inside the game room. <br>
-This was resolved by making the restart panel appear only after the game is won.
+**Question: Try to navigate away from the first booth.  Can you describe this experience?**<br>
+**Response:** It was easy. Controls are at your feet and you can easily see the it.<br>
+**Outcome:** No changes required. <br>
+
+**Question: Please go ahead and navigate to the others booths.  Please describe your experience in doing so.**<br>
+**Response:** Navigating to the other booths is fine.  Don't mind it all.<br>
+**Outcome:** No changes required.<br>
 
 
-### 4.  User testing - Final product
+### User testing - Final product
 
 **Question: What do you think is the first step in this game?**<br>
-**Response:**  Looks like I have to click on the Start button.  I like that you pushed back the panel.  It's not too big anymore. <br>
-**Outcome:** None required.<br>
+**Response:** <br>
+**Outcome:** <br>
 
-Action:  Please go ahead and click on the Start button.
+Action:  Please go ahead and click on a booth number.
 
-**Question: How did you feel about the speed of movement into the dungeon room?**<br>
-**Response:** The speed is nice and slow.  I didn't feel any discomfort at all.  This is much better than last time.<br>
-**Outcome:** None required.<br>
+**Question: How did you feel about the speed of movement to the booth?**<br>
+**Response:** <br>
+**Outcome:** <br>
 
-Action:  Please play the game.
+Action:  Please have a look at the booth.
 
-**Question: How did you feel about the game itself?**<br>
-**Response:** The game was good.  I like how the orbs lit up and sparkled.  It made it easy to remember the sequence.<br>
-**Outcome:** None required.<br>
+**Question: How did you feel about the booth itself?**<br>
+**Response:** <br>
+**Outcome:** <br>
 
-**Question: How did you feel about the speed of movement outside the room?**<br>
-**Response:** It felt good.  Same as entering the room.<br>
-**Outcome:** None required.<br>
+Action:  Please navigate to the other booths.
 
-**Question: Are you seeing anything outside?**<br>
-**Response:** Yes, I'm seeing a restart panel.  It's a good distance and easy to read.<br>
-**Outcome:** None required.<br>
+**Question: How was your experience visiting the other booths?**<br>
+**Response:** <br>
+**Outcome:** <br>
+
+**Question: Anything else you would like to share about this virtual experience?**<br>
+**Response:** <br>
+**Outcome:** <br>
 
 
 ### User testing outcomes and iterations
@@ -285,7 +268,7 @@ In virtual reality, the scale and speed of movement are core attributes to a goo
 
 ## How to install
 
-Click <a href="https://github.com/carldgosselin/virtual_reality/blob/master/Project-4-Puzzler/build">here</a> and move the Puzzler apk file onto your favorite Android device and enjoy the experience.
+Click <a href="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/build">here</a> and move the VR-Gallery apk file onto your favorite Android device and enjoy the experience.
 
 
 
