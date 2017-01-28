@@ -54,6 +54,7 @@ Topic: Research and development on Haptics
 - talk about Microsoft's research on haptics <br>
 a) ability to touch/interact with virtual objects <br>
 b) ability to feel the texture of virtual objects
+Involves touch ans sense of feeling.
 
 
 ### Station 6
