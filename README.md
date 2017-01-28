@@ -18,7 +18,7 @@ Carl Gosselin
 ## PUZZLER
 <a href="https://github.com/carldgosselin/virtual_reality/blob/master/Project-4-Puzzler/PUZZLER - Summary and Process.md">
 <p align="center">
-<img src="Project-4-Puzzler/documentation/070 - Environment snapshot.png" width="500">
+<img src="Project-4-Puzzler/documentation/070 - Environment snapshot.png" width="600">
 </p>
 </a>
 <p align="center">
@@ -28,7 +28,7 @@ Carl Gosselin
 ## POKEMON MAZE
 <a href="https://github.com/carldgosselin/virtual_reality/tree/master/Project-3-Pokemon-Maze">
 <p align="center">
-<img src="Project-3-Pokemon-Maze/Screenshots/screenshot-maze.png" width="500">
+<img src="Project-3-Pokemon-Maze/Screenshots/screenshot-maze.png" width="600">
 </p>
 </a>
 <p align="center">
@@ -38,7 +38,7 @@ Carl Gosselin
 ## VR APARTMENT
 <a href="https://github.com/carldgosselin/virtual_reality/tree/master/Project-2-Build-VR-Apartment">
 <p align="center">
-<img src="Project-2-Build-VR-Apartment/screenshots/screenshot2-vr-apartment.png" width="500">
+<img src="Project-2-Build-VR-Apartment/screenshots/screenshot2-vr-apartment.png" width="600">
 </p>
 </a>
 <p align="center">
@@ -48,7 +48,7 @@ Carl Gosselin
 ## MY FIRST VR APP
 <a href="https://github.com/carldgosselin/virtual_reality/tree/master/Project-1-My-First-VR-App">
 <p align="center">
-<img src="Project-1-My-First-VR-App/010 - screenshot/screenshot1.png" width="500">
+<img src="Project-1-My-First-VR-App/010 - screenshot/screenshot1.png" width="600">
 </p>
 </a>
 <p align="center">
