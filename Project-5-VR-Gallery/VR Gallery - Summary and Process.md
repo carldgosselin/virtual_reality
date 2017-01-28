@@ -179,17 +179,26 @@ Design Updates...
 
 The experience begins with...
 <p align="center">
-<img src="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/documentation/100 - Starting Point.png" width="600">
+<img src="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/documentation/100 - Starting Point.png" width="500">
+</p>
+<p align="center">
+The user can navigate to one of the six available booths.
 </p>
 
 After...
 <p align="center">
-<img src="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/documentation/101 - Booth1 Location.png" width="600">
+<img src="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/documentation/101 - Booth1 Location.png" width="500">
+</p>
+<p align="center">
+The user is navigate to the booth they chose.
 </p>
 
 After...
 <p align="center">
 <img src="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/documentation/000 - WIP%20- dancingbear.gif">
+</p>
+<p align="center">
+The user has the option of navigating back to the starting point or to another booth via the controller at the bottom of the screen.
 </p>
 
 ## Additional User testing
