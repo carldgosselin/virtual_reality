@@ -4,10 +4,10 @@ Carl Gosselin
 
 # UDACITY - Virtual Reality Nanodegree
 
-# VR Gallery - WORK IN PROGRESS
+# VR Gallery - Main Hall
 
 <p align="center">
-<img src="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/documentation/000 - WIP - dancingbear.gif">
+<img src="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/documentation/091 - Update Design - Main Hall.png" width="600">
 </p>
 
 
@@ -43,5 +43,5 @@ The final VR file is located in the "build" folder and has an extension of "apk"
 
 ## Install
 
-Move the "VRGallery.apk" file to your favorite Android device and enjoy the experience.
+Move the "VR-Gallery.apk" file to your favorite Android device and enjoy the experience.
 
