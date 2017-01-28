@@ -12,10 +12,10 @@ I took the time to conduct multiple rounds of user testing to get early feedback
 The multiple rounds of user testing helped in keeping the bugs and scale of changes to a minimum.  The final product is a virtual gallery with six booths showcasing the state of the VR industry in year 2016/2017.  
 
 
-## VR Gallery - WORK IN PROGRESS
+## VR Gallery - Main Hall
 
 <p align="center">
-<img src="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/documentation/000 - WIP%20- dancingbear.gif">
+<img src="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/documentation/091 - Update Design - Main Hall.png" width="600">
 </p>
 
 In the development of this application, I took special precaution around the speed of movement to minimize any nauseating discomfort.
