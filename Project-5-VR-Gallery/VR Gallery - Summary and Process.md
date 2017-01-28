@@ -198,7 +198,7 @@ After...
 <img src="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/documentation/000 - WIP%20- dancingbear.gif">
 </p>
 <p align="center">
-The user has the option of navigating back to the starting point or to another booth via the controller at the bottom of the screen.
+The user has the option of navigating back to the starting point or <br> to another booth via the controller at the bottom of the screen.
 </p>
 
 ## Additional User testing
