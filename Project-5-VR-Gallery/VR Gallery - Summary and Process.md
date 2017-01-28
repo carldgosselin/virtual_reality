@@ -9,7 +9,7 @@ Carl Gosselin
 I built a VR gallery as part of Udacity's Virtual Reality Development Nanodegree.  This application took me about 2 weeks to complete (design, test, build and repeat).
 I took a considerable amount of time designing and testing the application early in the process so that I could "fail fast" and make incremental changes throughout the process.
 I took the time to conduct multiple rounds of user testing to get early feedback on the gallery environment, the instructional panels, movement from one booth to another, and testing the final product.
-The 4 rounds of user testing helped in keeping the bugs and scale of changes to a minimum.  The final product is a virtual gallery with five booths showcasing the state of the VR industry in year 2016 and 2017.  
+The multiple rounds of user testing helped in keeping the bugs and scale of changes to a minimum.  The final product is a virtual gallery with five booths showcasing the state of the VR industry in year 2016 and 2017.  
 
 
 ## VR Gallery - WORK IN PROGRESS
