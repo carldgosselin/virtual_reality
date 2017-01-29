@@ -4,14 +4,13 @@ using System.Collections;
 public class GameLogic : MonoBehaviour { 
 
 	public GameObject player;
-	public GameObject eventSystem;
-	public GameObject startUI, restartUI;
 	public GameObject startPoint, booth1, booth2, booth3, booth4, booth5, booth6;
-	public GameObject Booth2Nav;
+	public GameObject booth1Sound, booth2Sound, booth3Sound, booth4Sound, booth5Sound, booth6Sound;
+	public GameObject Booth1Nav, Booth2Nav, Booth3Nav, Booth4Nav, Booth5Nav, Booth6Nav;
 
 	// Use this for initialization
 	void Start () {
-		  
+		hideControls (); 
 	}
 
 	// Update is called once per frame
@@ -19,44 +18,106 @@ public class GameLogic : MonoBehaviour {
 
 	}
 
+	public void stopAudio () {
+
+		booth1Sound.GetComponent<AudioSource> ().Stop();
+
+	}
+
+	public void hideControls () {
+
+		Booth1Nav.SetActive (false);
+		Booth2Nav.SetActive (false);
+		Booth3Nav.SetActive (false);
+		Booth4Nav.SetActive (false);
+		Booth5Nav.SetActive (false);
+		Booth6Nav.SetActive (false);
+	}
+
 	// Booth selection...
 	public void goToBooth1 () {
 		iTween.MoveTo (player, booth1.transform.position, 10f);
-		//Booth2Nav<Renderer>.enabled = false;
+		stopAudio ();
+		hideControls ();
+		Booth1Nav.SetActive (true);
+		booth1Sound.GetComponent<AudioSource> ().Play();
 
-
-		//   ......Other attempts at hiding objects.........      //
-		// Show/hide navigation panel located on the floor.  gameobject and all it's children
-		//var renderers = gameObject.GetComponentsInChildren.(booth2);
-		//for (var r : Renderer in renderers) {
-		//	r.enabled = !r.enabled;
-		//}
-
-		//GetComponent()<Renderer>.enabled = false;
-		//booth2.activeInHierarchy = false;
-
-		//Booth2Nav.SetActiveRecursively(false);
 	}
 
 	public void goToBooth2 () {
-		iTween.MoveTo (player, booth2.transform.position, 10f);
+		//iTween.MoveTo (player, booth2.transform.position, 10f);
+		iTween.MoveTo (player, 
+			iTween.Hash (
+				"position", booth2.transform.position, 
+				"time", 3, 
+				"easetype", "linear"
+			)
+		);
+		stopAudio ();
+		hideControls ();
+		Booth2Nav.SetActive (true);
+
 	}
 	public void goToBooth3 () {
-		iTween.MoveTo (player, booth3.transform.position, 10f);
+		iTween.MoveTo (player, 
+			iTween.Hash (
+				"position", booth3.transform.position, 
+				"time", 3, 
+				"easetype", "linear"
+			)
+		);
+		stopAudio ();
+		hideControls ();
+		Booth3Nav.SetActive (true);
 	}
 	public void goToBooth4 () {
-		iTween.MoveTo (player, booth4.transform.position, 10f);
+		iTween.MoveTo (player, 
+			iTween.Hash (
+				"position", booth4.transform.position, 
+				"time", 3, 
+				"easetype", "linear"
+			)
+		);
+		stopAudio ();
+		hideControls ();
+		Booth4Nav.SetActive (true);
 	}
 	public void goToBooth5 () {
-		iTween.MoveTo (player, booth5.transform.position, 10f);
+		iTween.MoveTo (player, 
+			iTween.Hash (
+				"position", booth5.transform.position, 
+				"time", 3, 
+				"easetype", "linear"
+			)
+		);
+		stopAudio ();
+		hideControls ();
+		Booth5Nav.SetActive (true);
 	}
 	public void goToBooth6 () {
-		iTween.MoveTo (player, booth6.transform.position, 10f);
+		iTween.MoveTo (player, 
+			iTween.Hash (
+				"position", booth6.transform.position, 
+				"time", 3, 
+				"easetype", "linear"
+			)
+		);
+		stopAudio ();
+		hideControls ();
+		Booth6Nav.SetActive (true);
 	}
 
 
 	public void goToStart () {
-		iTween.MoveTo (player, startPoint.transform.position, 10f);
+		iTween.MoveTo (player, 
+			iTween.Hash (
+				"position", startPoint.transform.position, 
+				"time", 3, 
+				"easetype", "linear"
+			)
+		);
+		stopAudio ();
+		hideControls ();
 	}
 
 
