@@ -190,7 +190,7 @@ After...
 <img src="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/documentation/101 - Booth1 Location.png" width="500">
 </p>
 <p align="center">
-The user is navigate to the booth they chose.
+The user is navigated to the selected booth.
 </p>
 
 After...
