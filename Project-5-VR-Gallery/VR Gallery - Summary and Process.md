@@ -209,7 +209,6 @@ I made an attempt to "fail fast" so that the required changes stayed small.  I c
 
 
 ### User testing - Navigation - starting location, booth locations and viewing angles
-[click <a target="_new" href="">here</a> to view the "movement" video used for user testing on youtube]
 
 **User 1**<br>
 **Question: How do you feel about the starting location of this app?**<br>
@@ -235,31 +234,33 @@ I made an attempt to "fail fast" so that the required changes stayed small.  I c
 
 ### User testing - Final product
 
-**Question: What do you think is the first step in this game?**<br>
-**Response:** <br>
-**Outcome:** <br>
+**Question: What do you think is the first step in this application?**<br>
+**Response:** The first step is to click on a booth number in the top panel.  BTW, I see and extra space (typo) in panel.<br>
+**Outcome:** Remove extra space in the sentence in the top panel.<br>
+
+
 
 Action:  Please go ahead and click on a booth number.
 
 **Question: How did you feel about the speed of movement to the booth?**<br>
-**Response:** <br>
-**Outcome:** <br>
+**Response:** The speed is good.  I'm fine with it.  Not disorienting at all.<br>
+**Outcome:** No changes required.<br>
 
 Action:  Please have a look at the booth.
 
 **Question: How did you feel about the booth itself?**<br>
-**Response:** <br>
-**Outcome:** <br>
+**Response:** Felt ok.  Btw, I still see the shadow of the chairs that were removed.  <br>
+**Outcome:** re-bake all lights so that the chair shadows are removed.<br>
 
 Action:  Please navigate to the other booths.
 
 **Question: How was your experience visiting the other booths?**<br>
-**Response:** <br>
-**Outcome:** <br>
+**Response:** Good.  The only think is if you visit booth 1 last, you may expect some sort of narration after the music.<br>
+**Outcome:** No changes required.<br>
 
 **Question: Anything else you would like to share about this virtual experience?**<br>
-**Response:** <br>
-**Outcome:** <br>
+**Response:** No.  Looks good.<br>
+**Outcome:** No changes required.<br>
 
 
 ### User testing outcomes and iterations
