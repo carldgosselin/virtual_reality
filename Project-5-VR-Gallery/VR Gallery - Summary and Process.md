@@ -238,8 +238,6 @@ I made an attempt to "fail fast" so that the required changes stayed small.  I c
 **Response:** The first step is to click on a booth number in the top panel.  BTW, I see and extra space (typo) in panel.<br>
 **Outcome:** Remove extra space in the sentence in the top panel.<br>
 
-
-
 Action:  Please go ahead and click on a booth number.
 
 **Question: How did you feel about the speed of movement to the booth?**<br>
