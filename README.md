@@ -16,6 +16,8 @@ Carl Gosselin
 </a>
 <p align="center">
 [click <a target="_new" href="https://youtu.be/8mJ6CCGBZAk?t=4s">here</a> to view video of VR Gallery]
+<br>
+[click <a target="_new" href="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/VR Gallery - Summary and Process.md">here</a> to view summary and process of work]
 </p>
 
 ## PUZZLER
