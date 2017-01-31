@@ -28,6 +28,9 @@ Carl Gosselin
 </a>
 <p align="center">
 [click <a target="_new" href="https://youtu.be/hhSTB7rkNBk">here</a> to view video of game]
+<br>
+[click <a target="_new" href="https://github.com/carldgosselin/virtual_reality/blob/master/Project-4-Puzzler/PUZZLER - Summary and Process.md">here</a> to view summary and process of work]
+
 </p>
 
 ## POKEMON MAZE
