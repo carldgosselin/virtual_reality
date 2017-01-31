@@ -43,5 +43,6 @@ The final VR file is located in the "build" folder and has an extension of "apk"
 
 ## Install
 
-Move the "VR-Gallery.apk" file to your favorite Android device and enjoy the experience.
+Click <a href="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/build">here</a> and move the VR-Gallery apk file onto your favorite Android device and enjoy the experience.
+
 
