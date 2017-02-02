@@ -17,6 +17,9 @@ The multiple rounds of user testing helped in keeping the bugs and scale of chan
 <p align="center">
 <img src="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/documentation/091 - Update Design - Main Hall.png" width="600">
 </p>
+<p align="center">
+[click <a target="_new" href="https://youtu.be/8mJ6CCGBZAk?t=4s">here</a> to view video of VR Gallery]
+</p>
 
 In the development of this application, I took special precaution around the speed of movement to minimize any nauseating discomfort.
 A user test was specifically conducted to ensure maximum comfort in navigating through a virtual space.
