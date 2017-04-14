@@ -7,7 +7,7 @@ Carl Gosselin
 # 360 Video
 
 <p align="center">
-<img src="pics/dancingbear.gif" width="600">
+<img src="pics/dancingbear.gif">
 </p>
 <p align="center">
 [click <a target="_new" href="">placeholder</a> to view video of 360 video]
