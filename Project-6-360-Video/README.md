@@ -4,13 +4,13 @@ Carl Gosselin
 
 # UDACITY - Virtual Reality Nanodegree
 
-# 360 Video
+# 360 Video - Work in Progress
 
 <p align="center">
 <img src="pics/dancingbear.gif">
 </p>
 <p align="center">
-Work in Progress
+Work in Progress <br>
 [click <a target="_new" href="">placeholder</a> to view video of 360 video]
 </p>
 
