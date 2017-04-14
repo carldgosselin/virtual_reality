@@ -10,6 +10,7 @@ Carl Gosselin
 <img src="pics/dancingbear.gif">
 </p>
 <p align="center">
+Work in Progress
 [click <a target="_new" href="">placeholder</a> to view video of 360 video]
 </p>
 
@@ -20,7 +21,7 @@ TBD ...
 
 
 
-### Placeholder
+### Work in Progress
 
 ## The final 360 Video application
 
