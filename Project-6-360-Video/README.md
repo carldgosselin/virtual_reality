@@ -7,7 +7,7 @@ Carl Gosselin
 # 360 Video
 
 <p align="center">
-<img src="/pics/dancingbear.png" width="600">
+<img src="pics/dancingbear.png" width="600">
 </p>
 <p align="center">
 [click <a target="_new" href="https://youtu.be/8mJ6CCGBZAk?t=4s">here</a> to view video of VR Gallery]
