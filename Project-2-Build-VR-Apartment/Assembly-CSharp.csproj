@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{234FAF8A-AB38-07EE-2BC2-FE597105F5A0}</ProjectGuid>
+    <ProjectGuid>{23689942-BBDA-34FA-7FCC-9D97C4480395}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -19,7 +19,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>Temp\bin\Debug\</OutputPath>
-    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_4_0;UNITY_5_4;UNITY_5;UNITY_ANALYTICS;ENABLE_NEW_BUGREPORTER;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EDITOR_RETINA;ENABLE_RETINA_GUISTYLES;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_SPRITE_POLYGON;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;INCLUDE_DIRECTX12;PLATFORM_SUPPORTS_MONO;INCLUDE_PUBNUB;ENABLE_LOCALIZATION;ENABLE_ANDROID_ATLAS_ETC1_COMPRESSION;ENABLE_EDITOR_TESTS_RUNNER;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_SUBSTANCE;ENABLE_TEXTUREID_MAP;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;PLATFORM_SUPPORTS_ADS_ID;UNITY_CAN_SHOW_SPLASH_SCREEN;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_OSX</DefineConstants>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_5_0;UNITY_5_5;UNITY_5;UNITY_64;UNITY_ANALYTICS;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_GENERICS;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_SCRIPTING_NEW_CSHARP_COMPILER;UNITY_STANDALONE_OSX;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_GAMECENTER;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_VIDEO;ENABLE_VR;ENABLE_CLUSTERINPUT;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_OSX</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <NoWarn>0169</NoWarn>
@@ -36,6 +36,7 @@
     <Reference Include="System" />
     <Reference Include="System.XML" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="UnityEngine">
       <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine.dll</HintPath>
@@ -45,9 +46,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\External Tools\SketchfabExporter\SimpleJSON.cs" />
      <Compile Include="Assets\GoogleVR\DemoScenes\ControllerDemo\ControllerDebugInfo.cs" />
      <Compile Include="Assets\GoogleVR\DemoScenes\ControllerDemo\ControllerDemoManager.cs" />
-     <Compile Include="Assets\GoogleVR\DemoScenes\HeadsetDemo\FPS.cs" />
      <Compile Include="Assets\GoogleVR\DemoScenes\HeadsetDemo\Teleport.cs" />
      <Compile Include="Assets\GoogleVR\Legacy\Scripts\GvrHead.cs" />
      <Compile Include="Assets\GoogleVR\Legacy\Scripts\Internal\GvrCameraUtils.cs" />
@@ -62,6 +63,7 @@
      <Compile Include="Assets\GoogleVR\Legacy\Scripts\Internal\VRDevices\BaseVRDevice.cs" />
      <Compile Include="Assets\GoogleVR\Legacy\Scripts\Internal\VRDevices\EditorDevice.cs" />
      <Compile Include="Assets\GoogleVR\Legacy\Scripts\Internal\VRDevices\GvrDevice.cs" />
+     <Compile Include="Assets\GoogleVR\Legacy\Scripts\Internal\VRDevices\UnityVRDevice.cs" />
      <Compile Include="Assets\GoogleVR\Legacy\Scripts\Internal\VRDevices\iOSDevice.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Audio\GvrAudio.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Audio\GvrAudioListener.cs" />
@@ -81,19 +83,24 @@
      <Compile Include="Assets\GoogleVR\Scripts\Controller\Internal\Emulator\PhoneEvent.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Controller\Internal\IControllerProvider.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\GazeInputModule.cs" />
+     <Compile Include="Assets\GoogleVR\Scripts\GvrSettings.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\GvrViewer.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Pose3D.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\UI\GvrGaze.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\UI\GvrReticle.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\UI\IGvrGazePointer.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\UI\IGvrGazeResponder.cs" />
+     <Compile Include="Assets\GoogleVR\Scripts\Utilities\GvrFPS.cs" />
+     <Compile Include="Assets\GoogleVR\Scripts\Utilities\GvrIntent.cs" />
      <Compile Include="Assets\VRND-Course2-Project\Scripts\Teleporter.cs" />
      <Compile Include="Assets\VRND-Course2-Project\Scripts\TriggerAnimation.cs" />
      <None Include="Assets\GoogleVR\Distortion\GvrDistortion.cginc" />
      <None Include="Assets\MyFirstShader.shader" />
      <None Include="Assets\GoogleVR\Legacy\Resources\UnlitTexture.shader" />
      <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
+     <None Include="Assets\Plugins\Android\AndroidManifest-Daydream.xml" />
      <None Include="Assets\GoogleVR\Resources\UI\GvrReticleShader.shader" />
+     <None Include="Assets\Plugins\Android\AndroidManifest-Cardboard.xml" />
      <None Include="Assets\GoogleVR\Legacy\Resources\SolidColor.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
@@ -101,11 +108,23 @@
  <Reference Include="UnityEngine.Networking">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
+ <Reference Include="UnityEngine.PlaymodeTestsRunner">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/PlaymodeTestsRunner/UnityEngine.PlaymodeTestsRunner.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEngine.Analytics">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
+ <Reference Include="UnityEngine.HoloLens">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.VR">
+ <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
+ </Reference>
  <Reference Include="Google.ProtocolBuffers">
- <HintPath>/Users/carldgosselin/Google Drive/Unity downloads/vrnd-course2-starter-project-001/Assets/Plugins/Google.ProtocolBuffers.dll</HintPath>
+ <HintPath>/Users/carldgosselin/Desktop/virtual_reality/Project-2-Build-VR-Apartment/Assets/Plugins/Google.ProtocolBuffers.dll</HintPath>
+ </Reference>
+ <Reference Include="Ionic.Zip">
+ <HintPath>/Users/carldgosselin/Desktop/virtual_reality/Project-2-Build-VR-Apartment/Assets/External Tools/SketchfabExporter/Ionic.Zip.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
