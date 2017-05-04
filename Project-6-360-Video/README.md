@@ -14,7 +14,7 @@ This was a little challenging as 2D movies allows the audience to jump from one 
 In the end, I wanted to keep the script simple and keep the story running through the eyes of the main character at all times.
 
 Deliverables:
-1. <a href="https://github.com/carldgosselin/virtual_reality/blob/master/Project-6-360-Video/360%20video%20-%20the%20script%20v4.xlsx">360 video - the script.xls</a>
+1. <a href="https://github.com/carldgosselin/virtual_reality/blob/master/Project-6-360-Video/360%20video%20-%20the%20script%20v5.xlsx">360 video - the script.xls</a>
 2. <a href="https://github.com/carldgosselin/virtual_reality/blob/master/Project-6-360-Video/360%20video%20-%20storyboard%20-%20The%20Safe.pdf">360 video - storyboard.pdf</a>
 3. <a href="https://github.com/carldgosselin/virtual_reality/blob/master/Project-6-360-Video/360%20video%20-%20the%20plan.xlsx">360 video - the plan.xls</a>
 
