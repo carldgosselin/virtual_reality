@@ -7,7 +7,12 @@ Carl Gosselin
 # 360 Video
 
 <div align=center><img src="pics/Flashback.png"></div>
-<div align=center><img src="pics/screenshot1.png"></div>
+<div align=center>
+	<img src="pics/screenshot1.png">
+	</br>
+	Click <a href="https://github.com/carldgosselin/virtual_reality/blob/master/Project-6-360-Video/360%20video%20-%20storyboard%20-%20The%20Safe.pdf">here</a> for storyboard.
+</div>
+
 
 This project took me two weeks (on and off) to complete.  The project included writing an initial script for the 360 movie, developing the storyboard, and identifying all of the elements required to shoot the film.
 
