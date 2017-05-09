@@ -10,7 +10,7 @@ Carl Gosselin
 <div align=center>
 	<img src="pics/screenshot1.png">
 	</br>
-	Click <a href="https://github.com/carldgosselin/virtual_reality/blob/master/Project-6-360-Video/360%20video%20-%20storyboard%20-%20Flashback.pdf">here</a> for storyboard.
+	Click <a href="https://github.com/carldgosselin/virtual_reality/blob/master/Project-6-360-Video-Scripting/360%20video%20-%20storyboard%20-%20Flashback.pdf">here</a> for storyboard.
 </div></br>
 
 
@@ -22,9 +22,9 @@ This was a little challenging as 2D movies allows the audience to jump from one 
 In the end, I wanted to keep the script simple and keep the story running through the eyes of the main character at all times.
 
 Deliverables:
-1. <a href="https://github.com/carldgosselin/virtual_reality/blob/master/Project-6-360-Video/360%20video%20-%20the%20script%20v6.xlsx">360 video - the script.xls</a>
-2. <a href="https://github.com/carldgosselin/virtual_reality/blob/master/Project-6-360-Video/360%20video%20-%20storyboard%20-%20Flashback.pdf">360 video - storyboard.pdf</a>
-3. <a href="https://github.com/carldgosselin/virtual_reality/blob/master/Project-6-360-Video/360%20video%20-%20the%20plan.xlsx">360 video - the plan.xls</a>
+1. <a href="https://github.com/carldgosselin/virtual_reality/blob/master/Project-6-360-Video-Scripting/360%20video%20-%20the%20script%20v6.xlsx">360 video - the script.xls</a>
+2. <a href="https://github.com/carldgosselin/virtual_reality/blob/master/Project-6-360-Video-Scripting/360%20video%20-%20storyboard%20-%20Flashback.pdf">360 video - storyboard.pdf</a>
+3. <a href="https://github.com/carldgosselin/virtual_reality/blob/master/Project-6-360-Video-Scripting/360%20video%20-%20the%20plan.xlsx">360 video - the plan.xls</a>
 
 
 
