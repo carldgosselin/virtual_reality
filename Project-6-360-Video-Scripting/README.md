@@ -4,7 +4,7 @@ Carl Gosselin
 
 # UDACITY - Virtual Reality Nanodegree
 
-# 360 Video
+# 360 Video Scripting
 
 <div align=center><img src="pics/Flashback.png"></div>
 <div align=center>
