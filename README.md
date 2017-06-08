@@ -8,6 +8,16 @@ Carl Gosselin
 
 <br>
 
+## 360 Video Scripting
+<div align=center><img src="pics/Flashback.png"></div>
+<div align=center>
+	<img src="pics/screenshot1.png">
+	</br>
+	Click <a href="https://github.com/carldgosselin/virtual_reality/blob/master/Project-6-360-Video-Scripting/360%20video%20-%20storyboard%20-%20Flashback.pdf">here</a> for storyboard.
+	<br>
+	[Nominated for Outstanding Project Award]
+</div></br>
+
 ## VR GALLERY - Main Hall
 <a href="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/VR Gallery - Summary and Process.md">
 <p align="center">
