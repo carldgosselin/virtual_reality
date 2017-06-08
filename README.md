@@ -9,9 +9,9 @@ Carl Gosselin
 <br>
 
 ## 360 Video Scripting
-<div align=center><img src="pics/Flashback.png"></div>
+<div align=center><img src="https://github.com/carldgosselin/virtual_reality/tree/master/Project-6-360-Video-Scripting/pics/Flashback.png"></div>
 <div align=center>
-	<img src="pics/screenshot1.png">
+	<img src="https://github.com/carldgosselin/virtual_reality/tree/master/Project-6-360-Video-Scripting/pics/screenshot1.png">
 	</br>
 	Click <a href="https://github.com/carldgosselin/virtual_reality/blob/master/Project-6-360-Video-Scripting/360%20video%20-%20storyboard%20-%20Flashback.pdf">here</a> for storyboard.
 	<br>
