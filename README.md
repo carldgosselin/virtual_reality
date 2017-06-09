@@ -9,7 +9,7 @@ Carl Gosselin
 <br>
 
 ## 360 Video Scripting
-<div align=center><img src="https://github.com/carldgosselin/virtual_reality/tree/master/Project-6-360-Video-Scripting/pics/Flashback.png"></div>
+<div align=center><img src="Project-6-360-Video-Scripting/pics/Flashback.png"></div>
 <div align=center>
 	<img src="https://github.com/carldgosselin/virtual_reality/tree/master/Project-6-360-Video-Scripting/pics/screenshot1.png">
 	</br>

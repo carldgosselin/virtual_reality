@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{73E01CB2-61B1-2B3E-2292-63CF73D1EA1D}") = "Project-3-Pokemon-Maze", "Assembly-CSharp.csproj", "{1B18EC31-C6B6-BD88-A51E-55EBF060D112}"
+EndProject
+Project("{73E01CB2-61B1-2B3E-2292-63CF73D1EA1D}") = "Project-3-Pokemon-Maze", "Assembly-CSharp-Editor.csproj", "{FAFE545C-16B7-C589-CE44-E794DEBB27CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B18EC31-C6B6-BD88-A51E-55EBF060D112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B18EC31-C6B6-BD88-A51E-55EBF060D112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B18EC31-C6B6-BD88-A51E-55EBF060D112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B18EC31-C6B6-BD88-A51E-55EBF060D112}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAFE545C-16B7-C589-CE44-E794DEBB27CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAFE545C-16B7-C589-CE44-E794DEBB27CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAFE545C-16B7-C589-CE44-E794DEBB27CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAFE545C-16B7-C589-CE44-E794DEBB27CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
