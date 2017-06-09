@@ -21,7 +21,7 @@ Carl Gosselin
 </br>
 	[click <a href="https://github.com/carldgosselin/virtual_reality/blob/master/Project-6-360-Video-Scripting/360%20video%20-%20storyboard%20-%20Flashback.pdf">here</a> to view storyboard]
 	<br>
-	[click <a href="https://github.com/carldgosselin/virtual_reality/blob/master/Project-6-360-Video-Scripting">here</a> to view project]
+	[click <a href="https://github.com/carldgosselin/virtual_reality/blob/master/Project-6-360-Video-Scripting">here</a> to view project folder]
 	<br>
 	[Nominated for Outstanding Project Award]
 </p>
