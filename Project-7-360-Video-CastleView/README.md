@@ -20,7 +20,7 @@ From there, you must then create some kind of story with interaction in Unity. U
 ## Summary
 This project took me three weeks (on and off) to complete.  The project needed the assistance of many externel technology tools:
 1. A tool to stitch 180 degree movies together.  I chose Video Stitch for this purpose.
-2. A tool to combine different 360 videos together.  I chose Adobe Premiere CC for this purpose.
+2. A tool to sequence different 360 videos together.  I chose Adobe Premiere CC for this purpose.
 3. A service that could stream 360 videos through the Unity app.  I chose DropBox for this purpose.  
 4. A solution that could view and manipulate a 360 within Unity.  I chose the AVPro solution for this requirement.
 
