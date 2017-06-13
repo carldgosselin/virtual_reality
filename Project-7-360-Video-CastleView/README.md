@@ -4,79 +4,37 @@ Carl Gosselin
 
 # UDACITY - Virtual Reality Nanodegree
 
-## Please navigate to the project folders for detailed README's for each project.
+# 360 Video Castle View
 
-<br>
-
-## 360 Video Scripting
-<a href="Project-6-360-Video-Scripting">
-<p align="center">
-<img src="Project-6-360-Video-Scripting/pics/Flashback.png">
-</p>
-</a>
-<a href="Project-6-360-Video-Scripting">
-<p align="center">
-<img src="Project-6-360-Video-Scripting/pics/screenshot1.png">
-</a>
-</br>
-	[click <a href="https://github.com/carldgosselin/virtual_reality/blob/master/Project-6-360-Video-Scripting/360%20video%20-%20storyboard%20-%20Flashback.pdf">here</a> to view storyboard]
-	<br>
-	[click <a href="https://github.com/carldgosselin/virtual_reality/blob/master/Project-6-360-Video-Scripting">here</a> to view project folder]
+<div align=center>
+	<img src="pics/screenshot1.png">
+	</br>
+	Click <a href="https://github.com/carldgosselin/virtual_reality/blob/master/Project-6-360-Video-Scripting/360%20video%20-%20storyboard%20-%20Flashback.pdf">here</a> for storyboard.
 	<br>
 	[Nominated for Outstanding Project Award]
-</p>
+</div></br>
 
-## VR GALLERY - Main Hall
-<a href="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/VR Gallery - Summary and Process.md">
-<p align="center">
-<img src="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/documentation/091 - Update Design - Main Hall.png" width="600">
-</p>
-</a>
-<p align="center">
-[click <a target="_new" href="https://youtu.be/8mJ6CCGBZAk?t=4s">here</a> to view video of VR Gallery]
-<br>
-[click <a target="_new" href="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/VR Gallery - Summary and Process.md">here</a> to view summary and process of work]
-</p>
 
-## PUZZLER
-<a href="https://github.com/carldgosselin/virtual_reality/blob/master/Project-4-Puzzler/PUZZLER - Summary and Process.md">
-<p align="center">
-<img src="Project-4-Puzzler/documentation/070 - Environment snapshot.png" width="600">
-</p>
-</a>
-<p align="center">
-[click <a target="_new" href="https://youtu.be/hhSTB7rkNBk">here</a> to view video of game]
-<br>
-[click <a target="_new" href="https://github.com/carldgosselin/virtual_reality/blob/master/Project-4-Puzzler/PUZZLER - Summary and Process.md">here</a> to view summary and process of work]
+This project took me three weeks (on and off) to complete.  The project needed the assistance of many externel technology tools:
+1. A tool to stitch 180 degree movies together.  I chose Video stitch for this stage.
+2. A tool to combine different 360 videos together.  I chose Adobe Premiere CC for this stage.
+3. A service that could stream 360 videos through the Unity app.  I chose DropBox for this purpose.  
+4. A solution that could view and manipulate a 360 within Unity.  I chose the AVPro solution for this requirement.
 
-</p>
+I found this project a good challenge with all of the many moving parts required to create the final product.  This project was not without its challenges:
+A. I had to take the time to learn many new technologies and understand how everything fit together (e.g. Video Stitch to Adobe Premiere CC etc...). 
+B. With Video Stitch, I had to learn to create the stitched video with a few custom settings:  stitch video as circular fishbowl, update FOB from 120 to 220, etc...
+C. With Adobe Premiere, I learned that processing the videos in H.264 will save the file with a .MP4 extension
+D. With DropBox, I learned that there is a daily streaming limit of 20GB.  My account got locked on the first day and I had to make a few adjustments to my project.
+E. I also learned that a .MOV extension is not compatible with Android devices
+F. I also had a few challenges working the AVPro solution but everything worked out it the end.
 
-## POKEMON MAZE
-<a href="https://github.com/carldgosselin/virtual_reality/tree/master/Project-3-Pokemon-Maze">
-<p align="center">
-<img src="Project-3-Pokemon-Maze/Screenshots/screenshot-maze.png" width="600">
-</p>
-</a>
-<p align="center">
-[click <a target="_new" href="https://youtu.be/iQ629q8PzuQ">here</a> to view video of game]
-</p>
+## The final VR application
 
-## VR APARTMENT
-<a href="https://github.com/carldgosselin/virtual_reality/tree/master/Project-2-Build-VR-Apartment">
-<p align="center">
-<img src="Project-2-Build-VR-Apartment/screenshots/screenshot2-vr-apartment.png" width="600">
-</p>
-</a>
-<p align="center">
-<br>[click <a target="_new" href="https://youtu.be/uLwX9iuOObM">here</a> to view video of virtual apartment]
-</p>
+The final VR file is located in the "build" folder and has an extension of "apk" for Android deployment.
 
-## MY FIRST VR APP
-<a href="https://github.com/carldgosselin/virtual_reality/tree/master/Project-1-My-First-VR-App">
-<p align="center">
-<img src="Project-1-My-First-VR-App/010 - screenshot/screenshot1.png" width="600">
-</p>
-</a>
-<p align="center">
-[click <a target="_new" href="https://youtu.be/OcRyGXIPvRg">here</a> to view video of my first VR app]
-</p>
+## Install
+
+Click <a href="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/build">here</a> and move the Castle_in_Germany360 apk file onto your favorite Android device and enjoy the experience.
+
+
