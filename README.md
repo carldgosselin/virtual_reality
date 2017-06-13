@@ -14,7 +14,7 @@ Carl Gosselin
 	<img src="Project-7-360-Video-CastleView/pics/screenshot1.png" width="600">
 </div>
 </a>
-
+</br>
 <p align="center">
 [click <a target="_new" href="https://github.com/carldgosselin/virtual_reality/blob/master/Project-7-360-Video-CastleView">here</a> to go to project folder]
 </p>
