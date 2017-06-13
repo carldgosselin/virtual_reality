@@ -11,6 +11,13 @@ Carl Gosselin
 </div></br>
 
 
+## Project Overview
+In this project, the goal is to use either the provided footage, or footage you shot yourself, to create a new and interesting 360 video. 
+Utilizing the skills that you have learned in this course and the last, you must stitch together raw footage as flawlessly as possible. 
+From there, you must then create some kind of story with interaction in Unity. Use Premiere to edit your stories and audio and stylize your footage with color and effects.
+
+
+## Summary
 This project took me three weeks (on and off) to complete.  The project needed the assistance of many externel technology tools:
 1. A tool to stitch 180 degree movies together.  I chose Video Stitch for this purpose.
 2. A tool to combine different 360 videos together.  I chose Adobe Premiere CC for this purpose.
