@@ -16,8 +16,8 @@ Carl Gosselin
 
 
 This project took me three weeks (on and off) to complete.  The project needed the assistance of many externel technology tools:
-1. A tool to stitch 180 degree movies together.  I chose Video stitch for this stage.
-2. A tool to combine different 360 videos together.  I chose Adobe Premiere CC for this stage.
+1. A tool to stitch 180 degree movies together.  I chose Video Stitch for this purpose.
+2. A tool to combine different 360 videos together.  I chose Adobe Premiere CC for this purpose.
 3. A service that could stream 360 videos through the Unity app.  I chose DropBox for this purpose.  
 4. A solution that could view and manipulate a 360 within Unity.  I chose the AVPro solution for this requirement.
 
@@ -35,6 +35,6 @@ The final VR file is located in the "build" folder and has an extension of "apk"
 
 ## Install
 
-Click <a href="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/build">here</a> and move the Castle_in_Germany360 apk file onto your favorite Android device and enjoy the experience.
+Click <a href="https://github.com/carldgosselin/virtual_reality/tree/master/Project-7-360-Video-CastleView/build">here</a> and move the Castle_in_Germany360 apk file onto your favorite Android device and enjoy the experience.
 
 
