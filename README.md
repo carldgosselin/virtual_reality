@@ -8,6 +8,16 @@ Carl Gosselin
 
 <br>
 
+# 360 Video Castle View
+
+<div align=center>
+	<img src="Project-7-360-Video-CastleView/pics/screenshot1.png" width="600">
+</div></br>
+
+<p align="center">
+[click <a target="_new" href="https://github.com/carldgosselin/virtual_reality/blob/master/Project-7-360-Video-CastleView">here</a> to go to project folder]
+</p>
+
 ## 360 Video Scripting
 <a href="Project-6-360-Video-Scripting">
 <p align="center">
