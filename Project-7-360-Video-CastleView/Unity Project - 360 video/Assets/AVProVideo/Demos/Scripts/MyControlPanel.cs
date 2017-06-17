@@ -9,7 +9,7 @@ public class MyControlPanel : MonoBehaviour {
 
 	// Variables
 	public MediaPlayer _mediaPlayer;
-	public GameObject introUI, controlsUI, creditsUI, goToCastleUI;
+	public GameObject introUI, controlsUI, creditsUI, goToCastleUI, backButton;
 	public GameObject crowdSound, insideCastle;
 
 	float current_time;
@@ -28,10 +28,18 @@ public class MyControlPanel : MonoBehaviour {
 	
 		current_time = _mediaPlayer.Control.GetCurrentTimeMs();
 
-		int counter1 = 0;
-		if (current_time >= 65000) {
+		// Hide "go to castle" button when already inside castle
+		if (current_time >= 35000) {
 
 			goToCastleUI.SetActive (false);
+		}
+
+		// Show Credit screen at end of video
+		if (current_time >= 85000) {
+
+			creditsUI.SetActive (true);
+			controlsUI.SetActive (false);
+			backButton.SetActive (false);
 		}
 	}
 		
@@ -75,7 +83,6 @@ public class MyControlPanel : MonoBehaviour {
 	// View credits button
 	public void OnViewCreditsButton()
 	{
-		introUI.SetActive (false);
 		creditsUI.SetActive (true);
 		controlsUI.SetActive (false);
 	}
@@ -83,7 +90,6 @@ public class MyControlPanel : MonoBehaviour {
 	// Back button on Credits panel
 	public void OnBackButton()
 	{
-		introUI.SetActive (false);
 		creditsUI.SetActive (false);
 		controlsUI.SetActive (true);
 	}
@@ -94,7 +100,7 @@ public class MyControlPanel : MonoBehaviour {
 		crowdSound.GetComponent<GvrAudioSource> ().Stop();
 
 		// Variable for video time showing desired scene (castle close-up view) 
-		float timeslot_1 = 65000;
+		float timeslot_1 = 35000;
 
 		// Hide/show buttons after button click
 		goToCastleUI.SetActive (false);
