@@ -6,11 +6,11 @@ Carl Gosselin
 
 # 360 Video Castle View
 
-<div align=center>
+<p align=center>
 	<img src="pics/screenshot1.png" width="600">
 	<br>
 	[click <a target="_new" href="https://youtu.be/sEXKbMyfr8g">here</a> to view video of castle in Germany]
-</div></br>
+</p></br>
 
 
 ## Project Overview
