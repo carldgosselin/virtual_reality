@@ -29,9 +29,10 @@ A. I had to take the time to learn many new technologies and understand how ever
 B. With Video Stitch, I had to learn to create the stitched video with a few custom settings:  stitch video as circular fishbowl, update FOB from 120 to 220, etc... <br>
 C. With Adobe Premiere, I learned that processing the videos in H.264 will save the file with a .MP4 extension <br>
 D. With DropBox, I learned that there is a daily streaming limit of 20GB.  My account got locked on the first day and I had to make a few adjustments to my project. <br>
-E. I learned that a .MOV extension is not compatible with Android devices <br>
+E. I learned that a .MOV extension is not compatible with Android devices. <br>
 F. I had a few challenges working the AVPro solution but everything worked out in the end. <br>
 G. I had an issue submitting the final project to Udacity as I exceeding the file limit for submission.  I had over 10,000 files in the project for submission. I reduced it to 345 files by deleting the Library folder. <br>
+H. To improve performance, I reduced the size of my 360 video from 800MB to 100MB.  Application performance was challenged when streaming the 360 video from DropBox. <br>
 
 ## The final VR application
 
