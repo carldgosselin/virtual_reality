@@ -6,6 +6,7 @@ Carl Gosselin
 
 # 360 Video Castle View
 
+<br>
 <p align=center>
 	<img src="pics/screenshot1.png" width="600">
 	<br>
