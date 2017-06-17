@@ -17,6 +17,8 @@ Carl Gosselin
 </br>
 <p align="center">
 [click <a target="_new" href="https://github.com/carldgosselin/virtual_reality/blob/master/Project-7-360-Video-CastleView">here</a> to go to project folder]
+<br>
+[click <a target="_new" href="https://youtu.be/sEXKbMyfr8g">here</a> to view video of castle in Germany]
 </p>
 
 ## 360 Video Scripting
