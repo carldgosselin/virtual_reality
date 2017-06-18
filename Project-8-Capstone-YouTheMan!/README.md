@@ -11,6 +11,8 @@ Carl Gosselin
 </p>
 <p align="center">
 [Work in progress]
+<br>
+[click <a target="_new" href="YouTheMan! - Summary and Process.md">here</a> to view summary and process of work]
 </p>
 
 
