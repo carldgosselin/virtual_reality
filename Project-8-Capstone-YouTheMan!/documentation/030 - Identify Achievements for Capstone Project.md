@@ -11,7 +11,7 @@
 4. Locomotion achievement (100 points)
 - I will add a "jump" feature where the viewer will be able to jump high above ground with superhero strength.
 5. Physics achievement (100 points)
-- The "jump" feature will incorporate the law of physics to pull the viewer back down to the original location.
+- The "jump" feature will incorporate the laws of physics that pull the viewer back down to the original location.
 6. Video Player achievement (100 points)
 - There will be multiple motivational videos in this application.  Each video will have its own control. <br>
 <br> `Total: 600 points`
