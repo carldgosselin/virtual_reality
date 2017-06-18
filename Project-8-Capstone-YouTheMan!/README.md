@@ -4,13 +4,13 @@ Carl Gosselin
 
 # UDACITY - Virtual Reality Nanodegree
 
-# Capstone - Main Hall
+# Capstone project - You The Man!
 
 <p align="center">
-<img src="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/documentation/091 - Update Design - Main Hall.png" width="600">
+<img src="pics/dancingbear.gif" width="600">
 </p>
 <p align="center">
-[click <a target="_new" href="https://youtu.be/8mJ6CCGBZAk?t=4s">here</a> to view video of VR Gallery]
+[Work in progress]
 </p>
 
 
