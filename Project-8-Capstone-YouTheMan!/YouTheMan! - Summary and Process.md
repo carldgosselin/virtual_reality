@@ -38,7 +38,7 @@ For the design of this game, I chose my wife, Andrea, as the ideal persona.
 
 This capstone project requires the selection of many "achievements" (application features) to be included in the final application to be considered complete. <br>
 You can find the complete list of Udacity "achievements" in this <a href="documentation/030 - Achievements - Udacity Capstone Requirements.docx">document</a>. <br>
-You can the "achievements" that I've selected for this project <a href="documentation/031 - Identify Achievements for Capstone Project.md">here</a>.<br>
+You can review the "achievements" that I've selected for this project <a href="documentation/031 - Identify Achievements for Capstone Project.md">here</a>.<br>
 
 
 ### Sketches
