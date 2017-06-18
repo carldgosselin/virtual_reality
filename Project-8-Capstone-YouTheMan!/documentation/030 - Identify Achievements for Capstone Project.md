@@ -15,7 +15,7 @@
 6. Video Player achievement (100 points)
 - There will be multiple motivational videos in this application.  Each video will have its own control. <br>
 <br>
-`Total: 600 points`
+*Total: 600 points*
 
 
 ### Section 2 (Completeness)
