@@ -13,7 +13,7 @@
 5. Physics achievement (100 points)
 - The "jump" feature will incorporate the laws of physics that pull the viewer back down to the original location.
 6. Video Player achievement (100 points)
-- There will be multiple motivational videos in this application.  Each video will have its own control. <br>
+- There will be multiple motivational videos in this application.  Each video will have its own control panel. <br>
 <br> `Total: 600 points`
 
 
