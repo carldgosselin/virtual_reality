@@ -20,11 +20,14 @@
 ### Section 2 (Completeness)
 
 1. Diegetic UI achievement (250 points)
+- Every video will have Play / Pause / Restart button for intuitive playing of videos.
 2. Alternative Storyline achievement (250 points)
+- One of the videos will have have an additional option to increase / decrease the level of aggressiveness of the motivational video.
 <br> `Total: 500 points`
 
 
 ### Section 3 
 
 1. App Store achievement (1000 points)
+- The You The Man! motivational application will be made available in the Playstore for Android applications.
 <br> `Total: 1000 points`
