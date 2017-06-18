@@ -7,7 +7,7 @@ Carl Gosselin
 # Capstone project - You The Man!
 
 <p align="center">
-<img src="pics/dancingbear.gif" width="600">
+<img src="pics/dancingbear.gif">
 </p>
 <p align="center">
 [Work in progress]
