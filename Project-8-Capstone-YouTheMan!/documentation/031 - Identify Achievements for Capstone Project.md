@@ -17,7 +17,7 @@
 <br> `Total: 600 points`
 
 
-### Section 2 (Completeness)
+### Section 2 (completeness)
 
 1. Diegetic UI achievement (250 points)
 - Every video will have Play / Pause / Restart buttons for intuitive playing of videos.
@@ -26,7 +26,7 @@
 <br> `Total: 500 points`
 
 
-### Section 3 
+### Section 3 (challenges)
 
 1. App Store achievement (1000 points)
 - The You The Man! motivational application will be made available in the Playstore for Android applications.

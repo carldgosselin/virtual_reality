@@ -21,8 +21,6 @@ The multiple rounds of user testing helped in keeping the bugs and scale of chan
 [Work in progress]
 </p>
 
-placeholder
-
 ## Statement of purpose
 This application is a mobile VR application for people that want to engage in a confidence boosting activity before entering a meeting or attending an social event.
 
@@ -35,6 +33,13 @@ For the design of this game, I chose my wife, Andrea, as the ideal persona.
 <p align="center">
 <img src="documentation/010 - Identify Ideal Persona.png" width="600">
 </p>
+
+### Choosing the achievements (application features) from Udacity documentation
+
+This capstone project requires the selection of many "achievements" (application features) to be included in the final application to be considered complete. <br>
+You can find the complete list of Udacity "achievements" in this <a href="documentation/030 - Achievements - Udacity Capstone Requirements.docx">document</a>. <br>
+You can the "achievements" that I've selected for this project <a href="documentation/031 - Identify Achievements for Capstone Project.md">here</a>.<br>
+
 
 ### Sketches
 
