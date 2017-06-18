@@ -18,7 +18,7 @@ Carl Gosselin
 <p align="center">
 [click <a target="_new" href="https://github.com/carldgosselin/virtual_reality/blob/master/Project-8-Capstone-YouTheMan!">here</a> to go to project folder]
 <br>
-[click <a target="_new" href="">here</a>(to be completed) to view video of confidence-boosting application]
+<!-- [click <a target="_new" href="">here</a> to view video of confidence-boosting application] -->
 </p>
 
 # 360 Video Castle View
