@@ -14,20 +14,17 @@
 - The "jump" feature will incorporate the law of physics to pull the viewer back down to the original location.
 6. Video Player achievement (100 points)
 - There will be multiple motivational videos in this application.  Each video will have its own control. <br>
-<br>
-*Total: 600 points*
+<br> `Total: 600 points`
 
 
 ### Section 2 (Completeness)
 
 1. Diegetic UI achievement (250 points)
 2. Alternative Storyline achievement (250 points)
-<br>
-`Total: 500 points`
+<br> `Total: 500 points`
 
 
 ### Section 3 
 
 1. App Store achievement (1000 points)
-<br>
-`Total: 1000 points`
+<br> `Total: 1000 points`
