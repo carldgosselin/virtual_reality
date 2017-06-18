@@ -1,6 +1,6 @@
 ## Statement of purpose
 
-This application is a mobile VR application for new VR users and educates them about the state of the VR industry in year 2016 and 2017.
+This application is a mobile VR application for people that want to engage in a confidence-boosting activity before entering a meeting or attending an social event.
 
 
 
