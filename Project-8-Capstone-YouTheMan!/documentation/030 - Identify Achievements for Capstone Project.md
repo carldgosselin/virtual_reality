@@ -20,7 +20,7 @@
 ### Section 2 (Completeness)
 
 1. Diegetic UI achievement (250 points)
-- Every video will have Play / Pause / Restart button for intuitive playing of videos.
+- Every video will have Play / Pause / Restart buttons for intuitive playing of videos.
 2. Alternative Storyline achievement (250 points)
 - One of the videos will have have an additional option to increase / decrease the level of aggressiveness of the motivational video.
 <br> `Total: 500 points`
