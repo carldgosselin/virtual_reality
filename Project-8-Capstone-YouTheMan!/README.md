@@ -4,7 +4,7 @@ Carl Gosselin
 
 # UDACITY - Virtual Reality Nanodegree
 
-# VR Gallery - Main Hall
+# Capstone - Main Hall
 
 <p align="center">
 <img src="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/documentation/091 - Update Design - Main Hall.png" width="600">
