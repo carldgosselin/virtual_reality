@@ -12,17 +12,16 @@ I took the time to conduct multiple rounds of user testing to get early feedback
 The multiple rounds of user testing helped in keeping the bugs and scale of changes to a minimum.  The final product is a virtual space with X video booths surrounding the viewer and boosting his/her confidence.  
 
 
-## VR Gallery - Main Hall
+## Overall - main view - placeholder
 
 <p align="center">
-<img src="https://github.com/carldgosselin/virtual_reality/blob/master/Project-5-VR-Gallery/documentation/091 - Update Design - Main Hall.png" width="600">
+<img src="pics/dancingbear.gif">
 </p>
 <p align="center">
-[click <a target="_new" href="https://youtu.be/8mJ6CCGBZAk?t=4s">here</a> to view video of VR Gallery]
+[Work in progress]
 </p>
 
-In the development of this application, I took special precaution around the speed of movement to minimize any nauseating discomfort.
-A user test was specifically conducted to ensure maximum comfort in navigating through a virtual space.
+placeholder
 
 ## Statement of purpose
 This application is a mobile VR application for new VR users and educates them about the state of the VR industry in year 2016 and 2017.
