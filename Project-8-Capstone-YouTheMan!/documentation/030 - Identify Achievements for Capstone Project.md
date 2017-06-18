@@ -5,7 +5,7 @@
 1. Scale achievement (100 points)
 - The viewer will be surrounded by motivational videos.  The viewer should feel like they are viewing the videos at head-level.  The viewer should not feel like they are looking up or down (just straight-forward).
 2. Animation achievement (100 points)
-- Multiple video screens will move into place via animation.
+- Multiple video screens will move into place via animation at the start of the application.
 3. Lighting achievement (100 points)
 - There will be a mix of baked vs. real-time lighting.
 4. Locomotion achievement (100 points)
