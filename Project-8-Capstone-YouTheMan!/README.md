@@ -11,6 +11,7 @@ Carl Gosselin
 </p>
 <p align="center">
 [Work in progress]
+<!--
 <br>
 [click <a target="_new" href="YouTheMan! - Summary and Process.md">here</a> to view summary and process of work]
 </p>
@@ -32,5 +33,6 @@ The final VR file is located in the "build" folder and has an extension of "apk"
 ## Install
 
 Click <a href="">here</a> and move the YouTheMan! apk file onto your favorite Android device and get pumped up for your next event.
+-->
 
 
