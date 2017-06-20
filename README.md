@@ -9,7 +9,7 @@ Carl Gosselin
 <br>
 
 # You The Man! (confidence-boosting application)
-<a href="Project-7-360-Video-CastleView">
+<a href="Project-8-Capstone-YouTheMan!">
 <div align=center>
 	<img src="Project-8-Capstone-YouTheMan!/pics/dancingbear.gif">
 </div>
