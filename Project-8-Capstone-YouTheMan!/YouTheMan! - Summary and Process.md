@@ -52,6 +52,8 @@ I sketched the application visuals using a 360 storyboard template...
 You can view the other storyboard visuals <a href="documentation/040 - You The Man! Storyboard.pdf">here</a>.
 </p>
 
+<!--
+
 ### Early design
 
 Early design of the...
@@ -203,6 +205,8 @@ In virtual reality, the scale and speed of movement are core attributes to a goo
 ## How to install
 
 Click <a href="">here</a> and move the VR-Gallery apk file onto your favorite Android device and get pumped up for your next event.
+
+-->
 
 
 
