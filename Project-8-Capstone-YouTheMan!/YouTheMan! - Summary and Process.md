@@ -43,21 +43,13 @@ You can review the "achievements" that I've selected for this project <a href="d
 
 ### Sketches
 
-The first sketch displays the main hall where all booths can be seen in a single view...
+I sketched the application visuals using a 360 storyboard template...
 <p align="center">
-<img src="pics/dancingbear.gif">
+<a href="documentation/040 - You The Man! Storyboard.pdf">
+<img src="pics/storyboardSample.png">
+</a>
 <br>
-[placeholder]
-</p>
-
-The second sketch displays the general layout of the...
-<p align="center">
-<img src="pics/dancingbear.gif">
-</p>
-
-The thirds sketch displays the general layout of the...
-<p align="center">
-<img src="pics/dancingbear.gif">
+You can view the other storyboard visuals <a href="documentation/040 - You The Man! Storyboard.pdf">here</a>.
 </p>
 
 ### Early design
