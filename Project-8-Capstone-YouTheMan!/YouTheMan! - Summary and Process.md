@@ -52,9 +52,11 @@ I sketched the application visuals using a 360 storyboard template...
 You can view the other storyboard visuals <a href="documentation/040 - You The Man! Storyboard.pdf">here</a>.
 </p>
 
-<!--
 
-### Early design
+
+### Early design (tbd)
+
+<!--
 
 Early design of the...
 <p align="center">
