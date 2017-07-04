@@ -22,6 +22,18 @@ I took a considerable amount of time designing and testing the application early
 I took the time to conduct multiple rounds of user testing to get early feedback on the virtual environment, movement from one video to another, and testing the final product.
 The multiple rounds of user testing helped in keeping the bugs and scale of changes to a minimum.  The final product is a virtual space with 6 video panels surrounding the viewer and boosting his/her confidence.  
 
+## Application Features
+
+1. Scale
+2. Animation
+3. Mixed Lighting
+4. Locomotion
+5. Physics
+6. Video Player
+7. Gamification
+8. Alternative Storyline
+9. Diegetic UI
+
 ## The final VR application
 
 The final VR file is located in the "build" folder and has an extension of "apk" for Android deployment.
