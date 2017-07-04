@@ -24,7 +24,7 @@ The multiple rounds of user testing helped in keeping the bugs and scale of chan
 
 ## Application Features
 
-1. Scale
+1. Scaling
 2. Animation
 3. Mixed Lighting
 4. Locomotion
