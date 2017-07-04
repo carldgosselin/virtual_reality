@@ -69,6 +69,7 @@ You can view the other storyboard visuals <a href="documentation/040 - You The M
 **Response:** <br>
 3. I'm seeing an arrow that goes up.  Looks like I have to click on it. <br>
 4. I'm not sure what this application is all about.  <br>
+<br>
 **Outcome:**  
 3. No changes required. <br>
 4. I added some verbiage to highlight the purpose of this experience which is motivating someone before a big event. <br>
