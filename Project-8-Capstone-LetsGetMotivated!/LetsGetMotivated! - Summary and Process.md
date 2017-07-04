@@ -58,10 +58,9 @@ You can view the other storyboard visuals <a href="documentation/040 - You The M
 **User 1**<br>
 
 **Question: Please describe what you see**<br>
-**Response:**
+**Response:**<br>
 1. Looks like I'm standing in some sort of room. <br>
 2. I feel kinda small.<br>
-<br>
 **Outcome:**  <br>
 1. No changes required <br>
 2. Increased the height of the camera to make the viewer feel a little taller in the room.<br>
@@ -158,105 +157,46 @@ You can view the other storyboard visuals <a href="documentation/040 - You The M
 
 The experience begins with...
 <p align="center">
-<img src="pics/dancingbear.gif">
+<img src="pics/010 - Start.png">
 </p>
 <p align="center">
-The user can navigate to one of the X available video screens.
+The viewer clicks on the arrow to move up on stage in front of a cheering crowd.
 </p>
 
 After...
 <p align="center">
-<img src="pics/dancingbear.gif">
+<img src="pics/020 - On Stage.png">
 </p>
 <p align="center">
-Placeholder.
+On stage, the user clicks on the rotating cube to move forward.
 </p>
 
 After...
 <p align="center">
-<img src="pics/dancingbear.gif">
+<img src="pics/030 - Choice.png">
 </p>
 <p align="center">
-Placeholder.
+The viewer is then presented with a choice to jump to space or go back underground to the Google cube.
 </p>
 
-
-## Additional User testing
-
-I conducted user testing early and frequently to minimize the scale of changes to the application. 
-I made an attempt to "fail fast" so that the required changes stayed small.  I conducted four rounds of user testing for this application.
-
-
-### User testing - Navigation - starting location, booth locations and viewing angles
-
-**User 1**<br>
-**Question: How do you feel about the starting location of this app?**<br>
-**Response:** ....<br>
-**Outcome:** ....<br>
-
-**Question: Now try to navigate to the first booth on the left.  How did you do?**<br>
-**Response:** ...
-**Outcome:** ...<br>
-
-**Question: Have a look at the first booth.  How is your viewing experience?**<br>
-**Response:** ... <br>
-**Outcome:** ...<br>
-
-**Question: Try to navigate away from the first booth.  Can you describe this experience?**<br>
-**Response:** ...<br>
-**Outcome:** ... <br>
-
-**Question: Please go ahead and navigate to the others booths.  Please describe your experience in doing so.**<br>
-**Response:** ...<br>
-**Outcome:** ...<br>
-
-
-### User testing - Final product
-
-**Question: What do you think is the first step in this application?**<br>
-**Response:** ...<br>
-**Outcome:** ...<br>
-
-Action:  Please go ahead and click on a booth number.
-
-**Question: How did you feel about the speed of movement to the booth?**<br>
-**Response:** ...<br>
-**Outcome:** ...<br>
-
-Action:  Please have a look at the booth.
-
-**Question: How did you feel about the booth itself?**<br>
-**Response:** ...  <br>
-**Outcome:** ...<br>
-
-Action:  Please navigate to the other booths.
-
-**Question: How was your experience visiting the other booths?**<br>
-**Response:** ...<br>
-**Outcome:** ...<br>
-
-**Question: Anything else you would like to share about this virtual experience?**<br>
-**Response:** ...<br>
-**Outcome:** ...<br>
+After...
+<p align="center">
+<img src="pics/040 - In Space.png">
+</p>
+<p align="center">
+In space, the viewer to look at motivational videos before landing back to earth.
+</p>
 
 
 ### User testing outcomes and iterations
 
-Testing the application early and frequently kept the bugs and changes small and incremental.  
+Two major changes:  Viewing height and sound consistency.  Testing the application early and frequently kept the bugs and changes small and incremental.  
 It helped mitigate large mistakes that would have taken a lot of time to resolve if discovered further down the road.
 With early user testing, I was able to adjust the height of the game and the speed of movement early in the process.
 
-
-## Conclusion
-
-This assignment made me realize the importance of establishing a repeatable process for creating a virtual environment.  
-It made evident the importance of user testing components of the game early to "fail fast".  
-Getting the scale of the game right is important in the early stages of development as re-scaling at the end of the development process can take a lot more time and resources to fix.  
-In virtual reality, the scale and speed of movement are core attributes to a good experience.
-
 ## How to install
 
-Click <a href="build/">here</a> and move the VR-Gallery apk file onto your favorite Android device and get pumped up for your next event.
+Click <a href="build/">here</a> and move the Let's Get Motivated apk file onto your favorite Android device and get pumped up for your next event.
 
 
 
