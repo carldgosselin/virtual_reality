@@ -61,6 +61,7 @@ You can view the other storyboard visuals <a href="documentation/040 - You The M
 **Response:** <br>
 1. Looks like I'm standing in some sort of room. <br>
 2. I feel kinda small.<br>
+<br>
 **Outcome:**  
 1. No changes required <br>
 2. Increased the height of the camera to make the viewer feel a little taller in the room.<br>
