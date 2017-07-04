@@ -8,7 +8,7 @@ Carl Gosselin
 
 <br>
 
-# You The Man! (confidence-boosting application)
+# Let's Get Motivated! (confidence-boosting application)
 <a href="Project-8-Capstone-LetsGetMotivated!">
 <div align=center>
 	<img src="Project-8-Capstone-LetsGetMotivated!/pics/000 - Overall.png">
