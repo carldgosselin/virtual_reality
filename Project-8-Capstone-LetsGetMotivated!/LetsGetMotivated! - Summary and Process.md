@@ -58,7 +58,7 @@ You can view the other storyboard visuals <a href="documentation/040 - You The M
 **User 1**<br>
 
 **Question: Please describe what you see**<br>
-**Response:** <br>
+**Response:**
 1. Looks like I'm standing in some sort of room. <br>
 2. I feel kinda small.<br>
 <br>
