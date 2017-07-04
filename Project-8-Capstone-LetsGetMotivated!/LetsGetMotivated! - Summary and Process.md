@@ -50,7 +50,7 @@ I sketched the application visuals using a 360 storyboard template...
 <img src="pics/storyboardSample.png">
 </a>
 <br>
-You can view the other storyboard visuals <a href="documentation/040 - You The Man! Storyboard.pdf">here</a>.
+You can view the other storyboard visuals <a href="documentation/040 - LetsGetMotivated! Storyboard.pdf">here</a>.
 </p>
 
 ### User testing - Environment - Google Cube
