@@ -4,14 +4,12 @@ Carl Gosselin
 
 # UDACITY - Virtual Reality Nanodegree
 
-# Capstone project - You The Man!
+# Capstone project - Let's Get Motivated!
 
 <p align="center">
-<img src="pics/dancingbear.gif">
+<img src="pics/000 - Overall.png">
 </p>
 <p align="center">
-[Work in progress]
-<!--
 <br>
 [click <a target="_new" href="LetsGetMotivated! - Summary and Process.md">here</a> to view summary and process of work]
 </p>
@@ -32,7 +30,6 @@ The final VR file is located in the "build" folder and has an extension of "apk"
 
 ## Install
 
-Click <a href="">here</a> and move the YouTheMan! apk file onto your favorite Android device and get pumped up for your next event.
--->
+Click <a href="build/">here</a> and move the LetsGetMotivated! apk file onto your favorite Android device and get pumped up for your next event.
 
 
