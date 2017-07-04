@@ -11,6 +11,8 @@ Carl Gosselin
 </p>
 <p align="center">
 <br>
+[click <a target="_new" href="https://youtu.be/KByXvsmKrW8">here</a> to view motivational video/application]
+<br>
 [click <a target="_new" href="LetsGetMotivated! - Summary and Process.md">here</a> to view summary and process of work]
 </p>
 
