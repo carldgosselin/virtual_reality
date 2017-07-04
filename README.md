@@ -9,17 +9,16 @@ Carl Gosselin
 <br>
 
 # You The Man! (confidence-boosting application)
-<a href="Project-8-Capstone-YouTheMan!">
+<a href="Project-8-Capstone-LetsGetMotivated!">
 <div align=center>
-	<img src="Project-8-Capstone-YouTheMan!/pics/dancingbear.gif">
+	<img src="Project-8-Capstone-LetsGetMotivated!/pics/000 - Overall.png">
 </div>
 </a>
 </br>
 <p align="center">
-[Work in progress]
-<!-- <br>
-[click <a target="_new" href="https://github.com/carldgosselin/virtual_reality/blob/master/Project-8-Capstone-YouTheMan!">here</a> to go to project folder]
-[click <a target="_new" href="">here</a> to view video of confidence-boosting application] -->
+<br>
+[click <a target="_new" href="https://github.com/carldgosselin/virtual_reality/blob/master/Project-8-Capstone-LetsGetMotivated!">here</a> to go to project folder]
+[click <a target="_new" href="https://youtu.be/KByXvsmKrW8">here</a> to view video of confidence-boosting application]
 </p>
 
 # 360 Video Castle View
