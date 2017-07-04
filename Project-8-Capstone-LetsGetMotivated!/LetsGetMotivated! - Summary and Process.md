@@ -19,7 +19,7 @@ The multiple rounds of user testing helped in keeping the bugs and scale of chan
 </p>
 <p align="center">
 <br>
-[click <a target="_new" href="https://youtu.be/KByXvsmKrW8">here</a> to view motivational video/application]
+[click <a target="_new" href="https://youtu.be/KByXvsmKrW8">here</a> to view motivational video/application on youtube]
 </p>
 
 ## Statement of purpose
@@ -55,31 +55,32 @@ You can view the other storyboard visuals <a href="documentation/040 - You The M
 
 ### User testing - Environment - Google Cube
 
-**User 1**<br>
+**User 1** <br>
 
-**Question: Please describe what you see**<br>
-**Response:**<br>
+**Question: Please describe what you see** <br>
+**Response:** <br>
 1. Looks like I'm standing in some sort of room. <br>
 2. I feel kinda small.<br>
+
 **Outcome:**  <br>
 1. No changes required <br>
-2. Increased the height of the camera to make the viewer feel a little taller in the room.<br>
-<br>
-**Question: What do you think is the intent of this scene?**<br>
+2. Increased the height of the camera to make the viewer feel a little taller in the room. <br>
+
+**Question: What do you think is the intent of this scene?** <br>
 **Response:** <br>
 3. I'm seeing an arrow that goes up.  Looks like I have to click on it. <br>
 4. I'm not sure what this application is all about.  <br>
-<br>
-**Outcome:**  
+
+**Outcome:** <br>
 3. No changes required. <br>
 4. I added some verbiage to highlight the purpose of this experience which is motivating someone before a big event. <br>
 
-**Question: How tall you feel when looking down at the scene?**<br>
-**Response:** I feel small in this scene.<br>
-**Outcome:**  I raised the height of the viewer gameobject to make the viewer feel a little taller.<br>
+**Question: How tall you feel when looking down at the scene?** <br>
+**Response:** I feel small in this scene. <br>
+**Outcome:**  I raised the height of the viewer gameobject to make the viewer feel a little taller. <br>
 
-**Question: Can you describe the mood of the environment?**<br>
-**Response:** I don't know.  Not sure what to think of this.<br>
+**Question: Can you describe the mood of the environment?** <br>
+**Response:** I don't know.  Not sure what to think of this. <br>
 **Outcome 1:** Added motivational verbiage and background sound (heartbeat and fans cheering) <br>
 **Outcome 2:** I reduced the background sound of fans cheering to make it feel more realistic of being inside a room. <br>
 
