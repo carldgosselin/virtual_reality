@@ -62,10 +62,10 @@ You can view the other storyboard visuals <a href="documentation/040 - You The M
 1. Looks like I'm standing in some sort of room. <br>
 2. I feel kinda small.<br>
 <br>
-**Outcome:**  
+**Outcome:**  <br>
 1. No changes required <br>
 2. Increased the height of the camera to make the viewer feel a little taller in the room.<br>
-
+<br>
 **Question: What do you think is the intent of this scene?**<br>
 **Response:** <br>
 3. I'm seeing an arrow that goes up.  Looks like I have to click on it. <br>
