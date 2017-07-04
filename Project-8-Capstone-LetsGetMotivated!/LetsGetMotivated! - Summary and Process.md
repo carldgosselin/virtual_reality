@@ -12,13 +12,14 @@ I took the time to conduct multiple rounds of user testing to get early feedback
 The multiple rounds of user testing helped in keeping the bugs and scale of changes to a minimum.  The final product is a virtual space with X video booths surrounding the viewer and boosting his/her confidence.  
 
 
-## Overall - main view - placeholder
+## Overall
 
 <p align="center">
-<img src="pics/dancingbear.gif">
+<img src="pics/000 - Overall.png">
 </p>
 <p align="center">
-[Work in progress]
+<br>
+[click <a target="_new" href="https://youtu.be/KByXvsmKrW8">here</a> to view motivational video/application]
 </p>
 
 ## Statement of purpose
