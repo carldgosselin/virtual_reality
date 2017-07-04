@@ -12,7 +12,7 @@ I took the time to conduct multiple rounds of user testing to get early feedback
 The multiple rounds of user testing helped in keeping the bugs and scale of changes to a minimum.  The final product is a virtual space with X video booths surrounding the viewer and boosting his/her confidence.  
 
 
-## Overall
+## Screenshots
 
 <p align="center">
 <img src="pics/000 - Overall.png">
@@ -56,8 +56,6 @@ You can view the other storyboard visuals <a href="documentation/040 - You The M
 
 
 ### Early design (tbd)
-
-<!--
 
 Early design of the...
 <p align="center">
@@ -207,9 +205,7 @@ In virtual reality, the scale and speed of movement are core attributes to a goo
 
 ## How to install
 
-Click <a href="">here</a> and move the VR-Gallery apk file onto your favorite Android device and get pumped up for your next event.
-
--->
+Click <a href="build/">here</a> and move the VR-Gallery apk file onto your favorite Android device and get pumped up for your next event.
 
 
 
