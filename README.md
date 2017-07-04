@@ -17,7 +17,7 @@ Carl Gosselin
 </br>
 <p align="center">
 <br>
-[click <a target="_new" href="https://github.com/carldgosselin/virtual_reality/blob/master/Project-8-Capstone-LetsGetMotivated!">here</a> to go to project folder]
+[click <a target="_new" href="https://github.com/carldgosselin/virtual_reality/blob/master/Project-8-Capstone-LetsGetMotivated!">here</a> to go to project folder] <br>
 [click <a target="_new" href="https://youtu.be/KByXvsmKrW8">here</a> to view video of confidence-boosting application]
 </p>
 
