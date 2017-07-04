@@ -165,7 +165,7 @@ The viewer clicks on the arrow to move up on stage in front of a cheering crowd.
 
 After...
 <p align="center">
-<img src="pics/020 - On Stage.png width="600"">
+<img src="pics/020 - On Stage.png width="600">
 </p>
 <p align="center">
 On stage, the user clicks on the rotating cube to move forward.
@@ -173,7 +173,7 @@ On stage, the user clicks on the rotating cube to move forward.
 
 After...
 <p align="center">
-<img src="pics/030 - Choice.png width="600"">
+<img src="pics/030 - Choice.png width="600">
 </p>
 <p align="center">
 The viewer is then presented with a choice to jump to space or go back underground to the Google cube.
@@ -181,7 +181,7 @@ The viewer is then presented with a choice to jump to space or go back undergrou
 
 After...
 <p align="center">
-<img src="pics/040 - In Space.png width="600"">
+<img src="pics/040 - In Space.png width="600">
 </p>
 <p align="center">
 In space, the viewer to look at motivational videos before landing back to earth.
