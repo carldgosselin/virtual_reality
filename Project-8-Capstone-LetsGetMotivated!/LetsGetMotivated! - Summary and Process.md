@@ -6,7 +6,7 @@ Carl Gosselin
 
 ## Introduction
 
-I built a confidence-boosting application as part of Udacity's Virtual Reality Development Nanodegree.  This application took me about X weeks to complete (design, test, build and repeat).
+I built a confidence-boosting application as part of Udacity's Virtual Reality Development Nanodegree.  This application took me about 3 weeks to complete (design, test, build and repeat).
 I took a considerable amount of time designing and testing the application early in the process so that I could "fail fast" and make incremental changes throughout the process.
 I took the time to conduct multiple rounds of user testing to get early feedback on the virtual environment, the instructional panels, movement from one video to another, and testing the final product.
 The multiple rounds of user testing helped in keeping the bugs and scale of changes to a minimum.  The final product is a virtual space with X video booths surrounding the viewer and boosting his/her confidence.  
