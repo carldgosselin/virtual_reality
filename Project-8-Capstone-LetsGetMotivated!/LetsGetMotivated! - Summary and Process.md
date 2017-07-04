@@ -46,7 +46,7 @@ You can review the "achievements" that I've selected for this project <a href="d
 
 I sketched the application visuals using a 360 storyboard template...
 <p align="center">
-<a href="documentation/040 - You The Man! Storyboard.pdf">
+<a href="documentation/040 - LetsGetMotivated! Storyboard.pdf">
 <img src="pics/storyboardSample.png">
 </a>
 <br>
